@@ -1,0 +1,118 @@
+congress,chamber,icpsr,state_icpsr,district_code,state_abbrev,party_code,occupancy,last_means,bioname,Last name,Name,Twitter_username
+117,President,99912,99,0,USA,200,0,0,"TRUMP, Donald John",Trump,Donald Trump,realDonaldTrump
+117,President,99912,99,0,USA,200,0,0,"TRUMP, Donald John",Trump,Donald Trump,POTUS
+117,President,99913,99,0,USA,100,0,0,"BIDEN, Joseph Robinette, Jr.",Biden,Joe Biden,JoeBiden
+117,Senate,42102,41,0,AL,200,,,"TUBERVILLE, Thomas Hawley (Tommy)",Tuberville,Tommy Tuberville,TTuberville
+117,Senate,94659,41,0,AL,200,,,"SHELBY, Richard C.",Shelby,Richard Shelby,SenShelby
+117,Senate,40300,81,0,AK,200,,,"MURKOWSKI, Lisa",Murkowski,Lisa Murkowski,lisamurkowski
+117,Senate,41500,81,0,AK,200,,,"SULLIVAN, Daniel Scott",Sullivan,Daniel S. Sullivan,SenDanSullivan
+117,Senate,21300,61,0,AZ,100,,,"SINEMA, Kyrsten",Sinema,Kyrsten Sinema,SenatorSinema
+117,Senate,41905,61,0,AZ,100,,,"KELLY, Mark Edward",Kelly,Mark Kelly,CaptMarkKelly
+117,Senate,20101,42,0,AR,200,,,"BOOZMAN, John",Boozman,John Boozman,Boozman4AR
+117,Senate,20101,42,0,AR,200,,,"BOOZMAN, John",Boozman,John Boozman,JohnBoozman
+117,Senate,21301,42,0,AR,200,,,"COTTON, Tom",Cotton,Tom Cotton,sentomcotton
+117,Senate,21301,42,0,AR,200,,,"COTTON, Tom",Cotton,Tom Cotton,TomCottonAR
+117,Senate,41701,71,0,CA,100,,,"HARRIS, Kamala Devi",Harris,Kamala Harris,KamalaHarris
+117,Senate,42104,71,0,CA,100,,,"PADILLA, Alejandro (Alex)",Padilla,Alex Padilla,alexpadilla4ca
+117,Senate,49300,71,0,CA,100,,,"FEINSTEIN, Dianne",Feinstein,Dianne Feinstein,SenFeinstein
+117,Senate,40910,62,0,CO,100,,,"BENNET, Michael F.",Bennet,Michael Bennet,MichaelBennet
+117,Senate,40910,62,0,CO,100,,,"BENNET, Michael F.",Bennet,Michael Bennet,SenatorBennet
+117,Senate,42101,62,0,CO,100,,,"HICKENLOOPER, John Wright",Hickenlooper,John Hickenlooper,Hickenlooper
+117,Senate,20707,1,0,CT,100,,,"MURPHY, Christopher",Murphy,Chris Murphy,ChrisMurphyCT
+117,Senate,41101,1,0,CT,100,,,"BLUMENTHAL, Richard",Blumenthal,Richard Blumenthal,SenBlumenthal
+117,Senate,15015,11,0,DE,100,,,"CARPER, Thomas Richard",Carper,Tom Carper,SenatorCarper
+117,Senate,40916,11,0,DE,100,,,"COONS, Christopher A.",Coons,Chris Coons,ChrisCoons
+117,Senate,40916,11,0,DE,100,,,"COONS, Christopher A.",Coons,Chris Coons,SenCoonsOffice
+117,Senate,41102,43,0,FL,200,,,"RUBIO, Marco",Rubio,Marco Rubio,marcorubio
+117,Senate,21173,48,0,SC,200,,,"SCOTT, Tim",Scott,Tim Scott,SenatorTimScott
+117,Senate,41904,44,0,GA,200,,,"LOEFFLER, Kelly",Loeffler,Kelly Loeffler,kloeffler
+117,Senate,42103,44,0,GA,100,,,"OSSOFF, Thomas Jonathan (Jon)",Ossoff,Jon Ossoff,ossoff
+117,Senate,20713,82,0,HI,100,,,"HIRONO, Mazie",Hirono,Mazie Hirono,maziehirono
+117,Senate,41112,82,0,HI,100,,,"SCHATZ, Brian Emanuel",Schatz,Brian Schatz,SenBrianSchatz
+117,Senate,41112,82,0,HI,100,,,"SCHATZ, Brian Emanuel",Schatz,Brian Schatz,brianschatz
+117,Senate,29345,63,0,ID,200,,,"CRAPO, Michael Dean",Crapo,Mike Crapo,MikeCrapo
+117,Senate,29345,63,0,ID,200,,,"CRAPO, Michael Dean",Crapo,Mike Crapo,crapoforsenate
+117,Senate,40902,63,0,ID,200,,,"RISCH, James",Risch,Jim Risch,SenatorRisch
+117,Senate,15021,21,0,IL,100,,,"DURBIN, Richard Joseph",Durbin,Dick Durbin,SenatorDurbin
+117,Senate,21325,21,0,IL,100,,,"DUCKWORTH, Tammy",Duckworth,Tammy Duckworth,senduckworth
+117,Senate,21133,22,0,IN,200,,,"YOUNG, Todd",Young,Todd Young,ToddYoungIN
+117,Senate,21133,22,0,IN,200,,,"YOUNG, Todd",Young,Todd Young,SenToddYoung
+117,Senate,41900,22,0,IN,200,,,"BRAUN, Michael",Braun,Mike Braun,braun4indiana
+117,Senate,41900,22,0,IN,200,,,"BRAUN, Michael",Braun,Mike Braun,SenatorBraun
+117,Senate,14226,31,0,IA,200,,,"GRASSLEY, Charles Ernest",Grassley,Chuck Grassley,ChuckGrassley
+117,Senate,41502,31,0,IA,200,,,"ERNST, Joni",Ernst,Joni Ernst,SenJoniErnst
+117,Senate,41502,31,0,IA,200,,,"ERNST, Joni",Ernst,Joni Ernst,joniernst
+117,Senate,21734,32,0,KS,200,,,"MARSHALL, Roger Wayne",Marshall,Roger Marshall,RogerMarshallMD
+117,Senate,29722,32,0,KS,200,,,"MORAN, Jerry",Moran,Jerry Moran,JerryMoran
+117,Senate,41104,51,0,KY,200,,,"PAUL, Rand",Paul,Rand Paul,RandPaul
+117,Senate,20919,45,0,LA,200,,,"CASSIDY, Bill",Cassidy,Bill Cassidy,BillCassidy
+117,Senate,20919,45,0,LA,200,,,"CASSIDY, Bill",Cassidy,Bill Cassidy,SenatorCassidy
+117,Senate,41703,45,0,LA,200,,,"KENNEDY, John Neely",Kennedy,John Neely Kennedy,JohnKennedyLA
+117,Senate,41703,45,0,LA,200,,,"KENNEDY, John Neely",Kennedy,John Neely Kennedy,SenJohnKennedy
+117,Senate,41300,2,0,ME,328,,,"KING, Angus Stanley, Jr.",King,Angus King,SenAngusKing
+117,Senate,49703,2,0,ME,200,,,"COLLINS, Susan Margaret",Collins,Susan Collins,senatorcollins
+117,Senate,15408,52,0,MD,100,,,"CARDIN, Benjamin Louis",Cardin,Ben Cardin,SenatorCardin
+117,Senate,14435,3,0,MA,100,,,"MARKEY, Edward John",Markey,Ed Markey,SenMarkey
+117,Senate,41301,3,0,MA,100,,,"WARREN, Elizabeth",Warren,Elizabeth Warren,ewarren
+117,Senate,41301,3,0,MA,100,,,"WARREN, Elizabeth",Warren,Elizabeth Warren,SenWarren
+117,Senate,20923,23,0,MI,100,,,"PETERS, Gary C.",Peters,Gary Peters,SenGaryPeters
+117,Senate,29732,23,0,MI,100,,,"STABENOW, Deborah Ann",Stabenow,Debbie Stabenow,SenStabenow
+117,Senate,41706,33,0,MN,100,,,"SMITH, Tina",Smith,Tina Smith,TinaSmithMN
+117,Senate,41706,33,0,MN,100,,,"SMITH, Tina",Smith,Tina Smith,SenTinaSmith
+117,Senate,29534,46,0,MS,200,,,"WICKER, Roger F.",Wicker,Roger Wicker,SenatorWicker
+117,Senate,41707,46,0,MS,200,,,"HYDE-SMITH, Cindy",Hyde-Smith,Cindy Hyde-Smith,SenHydeSmith
+117,Senate,41707,46,0,MS,200,,,"HYDE-SMITH, Cindy",Hyde-Smith,Cindy Hyde-Smith,cindyhydesmith
+117,Senate,29735,34,0,MO,200,,,"BLUNT, Roy",Blunt,Roy Blunt,RoyBlunt
+117,Senate,29735,34,0,MO,200,,,"BLUNT, Roy",Blunt,Roy Blunt,RoyBluntMO
+117,Senate,41901,34,0,MO,200,,,"HAWLEY, Joshua David",Hawley,Josh Hawley,HawleyMO
+117,Senate,21338,64,0,MT,200,,,"DAINES, Steve",Daines,Steve Daines,SteveDaines
+117,Senate,40702,64,0,MT,100,,,"TESTER, Jon",Tester,Jon Tester,SenatorTester
+117,Senate,41302,35,0,NE,200,,,"FISCHER, Debra (Deb)",Fischer,Deb Fischer,SenatorFischer
+117,Senate,41503,35,0,NE,200,,,"SASSE, Benjamin Eric",Sasse,Ben Sasse,SenSasse
+117,Senate,21743,65,0,NV,100,,,"ROSEN, Jacklyn Sheryl",Rosen,Jacky Rosen,RosenforNevada
+117,Senate,21743,65,0,NV,100,,,"ROSEN, Jacklyn Sheryl",Rosen,Jacky Rosen,SenJackyRosen
+117,Senate,40906,4,0,NH,100,,,"SHAHEEN, Jeanne",Shaheen,Jeanne Shaheen,SenatorShaheen
+117,Senate,41702,4,0,NH,100,,,"HASSAN, Margaret (Maggie)",Hassan,Maggie Hassan,maggie_hassan
+117,Senate,41702,4,0,NH,100,,,"HASSAN, Margaret (Maggie)",Hassan,Maggie Hassan,SenatorHassan
+117,Senate,29373,12,0,NJ,100,,,"MENENDEZ, Robert",Menendez,Robert Menendez,SenatorMenendez
+117,Senate,41308,12,0,NJ,100,,,"BOOKER, Cory Anthony",Booker,Cory Booker,CoryBooker
+117,Senate,20930,66,0,NM,100,,,"HEINRICH, Martin",Heinrich,Martin Heinrich,MartinHeinrich
+117,Senate,20932,66,0,NM,100,,,"LUJÁN, Ben Ray",Luján,Ben R. Luján,repbenraylujan
+117,Senate,14858,13,0,NY,100,,,"SCHUMER, Charles Ellis (Chuck)",Schumer,Chuck Schumer,SenSchumer
+117,Senate,20735,13,0,NY,100,,,"GILLIBRAND, Kirsten",Gillibrand,Kirsten Gillibrand,SenGillibrand
+117,Senate,29548,47,0,NC,200,,,"BURR, Richard M.",Burr,Richard M. Burr,SenatorBurr
+117,Senate,41504,47,0,NC,200,,,"TILLIS, Thomas Roland (Thom)",Tillis,Thom Tillis,SenThomTillis
+117,Senate,21350,36,0,ND,200,,,"CRAMER, Kevin",Cramer,Kevin Cramer,kevincramer
+117,Senate,41107,36,0,ND,200,,,"HOEVEN, John",Hoeven,John Hoeven,SenJohnHoeven
+117,Senate,29386,24,0,OH,200,,,"PORTMAN, Robert Jones (Rob)",Portman,Robert Jones Portman,senrobportman
+117,Senate,29386,24,0,OH,200,,,"PORTMAN, Robert Jones (Rob)",Portman,Robert Jones Portman,robportman
+117,Senate,29389,24,0,OH,100,,,"BROWN, Sherrod",Brown,Sherrod Brown,SenSherrodBrown
+117,Senate,15424,53,0,OK,200,,,"INHOFE, James Mountain",Inhofe,Jim Mountain Inhofe,JimInhofe
+117,Senate,21166,53,0,OK,200,,,"LANKFORD, James",Lankford,James Lankford,SenatorLankford
+117,Senate,14871,72,0,OR,100,,,"WYDEN, Ronald Lee",Wyden,Ron Wyden,RonWyden
+117,Senate,14871,72,0,OR,100,,,"WYDEN, Ronald Lee",Wyden,Ron Wyden,WydenPress
+117,Senate,40908,72,0,OR,100,,,"MERKLEY, Jeff",Merkley,Jeff Merkley,SenJeffMerkley
+117,Senate,29935,14,0,PA,200,,,"TOOMEY, Patrick Joseph",Toomey,Patrick Joseph Toomey,SenToomey
+117,Senate,29142,5,0,RI,100,,,"REED, John F. (Jack)",Reed,Jack Reed,SenJackReed
+117,Senate,40704,5,0,RI,100,,,"WHITEHOUSE, Sheldon",Whitehouse,Sheldon Whitehouse,SenWhitehouse
+117,Senate,29566,48,0,SC,200,,,"GRAHAM, Lindsey O.",Graham,Lindsey Graham,LindseyGrahamSC
+117,Senate,29754,37,0,SD,200,,,"THUNE, John",Thune,John Thune,SenJohnThune
+117,Senate,29754,37,0,SD,200,,,"THUNE, John",Thune,John Thune,johnthune
+117,Senate,41505,37,0,SD,200,,,"ROUNDS, Marion Michael (Mike)",Rounds,Mike Rounds,SenatorRounds
+117,Senate,20351,54,0,TN,200,,,"BLACKBURN, Marsha",Blackburn,Marsha Blackburn,MarshaBlackburn
+117,Senate,40305,49,0,TX,200,,,"CORNYN, John",Cornyn,John Cornyn,JohnCornyn
+117,Senate,41110,67,0,UT,200,,,"LEE, Mike",Lee,Mike Lee,SenMikeLee
+117,Senate,41902,67,0,UT,200,,,"ROMNEY, Willard Mitt (Mitt)",Romney,Mitt Romney,MittRomney
+117,Senate,14307,6,0,VT,100,,,"LEAHY, Patrick Joseph",Leahy,Patrick Leahy,SenatorLeahy
+117,Senate,29147,6,0,VT,328,,,"SANDERS, Bernard",Sanders,Bernie Sanders,BernieSanders
+117,Senate,40909,40,0,VA,100,,,"WARNER, Mark",Warner,Mark Warner,MarkWarner
+117,Senate,41305,40,0,VA,100,,,"KAINE, Timothy Michael (Tim)",Kaine,Tim Kaine,timkaine
+117,Senate,39310,73,0,WA,100,,,"CANTWELL, Maria E.",Cantwell,Maria Cantwell,SenatorCantwell
+117,Senate,49308,73,0,WA,100,,,"MURRAY, Patty",Murray,Patty Murray,PattyMurray
+117,Senate,20146,56,0,WV,200,,,"CAPITO, Shelley Moore",Capito,Shelley Moore Capito,SenCapito
+117,Senate,40915,56,0,WV,100,,,"MANCHIN, Joe, III",Manchin,Joe Manchin,Sen_JoeManchin
+117,Senate,29940,25,0,WI,100,,,"BALDWIN, Tammy",Baldwin,Tammy Baldwin,tammybaldwin
+117,Senate,29940,25,0,WI,100,,,"BALDWIN, Tammy",Baldwin,Tammy Baldwin,SenatorBaldwin
+117,Senate,41111,25,0,WI,200,,,"JOHNSON, Ron",Johnson,Ron Johnson,SenRonJohnson
+117,Senate,20953,68,0,WY,200,,,"LUMMIS, Cynthia M.",Lummis,Cynthia Lummis,CynthiaLummis
+117,Senate,40707,68,0,WY,200,,,"BARRASSO, John A.",Barrasso,John Barrasso,SenJohnBarrasso
