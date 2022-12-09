@@ -1,0 +1,1696 @@
+,firstname,lastname,party,total,individual,pac,contributor,race,state,icpsr
+20,john,hickenlooper,democrat,256481,256481,0,Alphabet Inc,COS2,CO,42101
+21,john,hickenlooper,democrat,238166,238166,0,Democracy Engine,COS2,CO,42101
+22,john,hickenlooper,democrat,176333,176333,0,University of Colorado                  ,COS2,CO,42101
+23,john,hickenlooper,democrat,172769,172769,0,University of California                ,COS2,CO,42101
+24,john,hickenlooper,democrat,159910,159825,85,J Street,COS2,CO,42101
+25,john,hickenlooper,democrat,119505,119505,0,Microsoft Corp,COS2,CO,42101
+26,john,hickenlooper,democrat,105905,105905,0,Harvard University,COS2,CO,42101
+27,john,hickenlooper,democrat,73507,73507,0,Apple Inc,COS2,CO,42101
+28,john,hickenlooper,democrat,71571,71571,0,Amazon.com                              ,COS2,CO,42101
+29,john,hickenlooper,democrat,67202,67202,0,Walt Disney Co,COS2,CO,42101
+30,john,hickenlooper,democrat,66737,66737,0,US Government,COS2,CO,42101
+31,john,hickenlooper,democrat,65025,65025,0,Facebook Inc,COS2,CO,42101
+32,john,hickenlooper,democrat,62390,62390,0,Stanford University,COS2,CO,42101
+33,john,hickenlooper,democrat,57604,57604,0,AT&T Inc,COS2,CO,42101
+34,john,hickenlooper,democrat,56641,56641,0,Comcast Corp,COS2,CO,42101
+35,john,hickenlooper,democrat,51865,51865,0,Kaiser Permanente,COS2,CO,42101
+36,john,hickenlooper,democrat,47436,47436,0,Liberty Media Corp,COS2,CO,42101
+37,john,hickenlooper,democrat,45986,45986,0,IBM Corp,COS2,CO,42101
+38,john,hickenlooper,democrat,43200,43200,0,Insight Partners,COS2,CO,42101
+39,john,hickenlooper,democrat,42569,42569,0,Colorado State University,COS2,CO,42101
+0,john,hoeven,republican,47850,39950,7900,American Israel Public Affairs Cmte,NDS1,ND,41107
+1,john,hoeven,republican,39800,39800,0,Pro-Israel America PAC,NDS1,ND,41107
+2,john,hoeven,republican,24731,24731,0,Blackstone Group,NDS1,ND,41107
+3,john,hoeven,republican,23400,13400,10000,Hess Corp,NDS1,ND,41107
+4,john,hoeven,republican,23200,23200,0,FTX.US,NDS1,ND,41107
+5,john,hoeven,republican,21520,21520,0,Elingson Companies,NDS1,ND,41107
+6,john,hoeven,republican,18422,15922,2500,Energy Transfer LP,NDS1,ND,41107
+7,john,hoeven,republican,17100,17100,0,General Atomics,NDS1,ND,41107
+8,john,hoeven,republican,15900,6400,9500,MDU Resources Group,NDS1,ND,41107
+9,john,hoeven,republican,14753,14753,0,Walter Oil & Gas,NDS1,ND,41107
+10,john,hoeven,republican,12550,2550,10000,American Crystal Sugar,NDS1,ND,41107
+11,john,hoeven,republican,11806,1806,10000,ConocoPhillips,NDS1,ND,41107
+12,john,hoeven,republican,11600,11600,0,Daniel Companies,NDS1,ND,41107
+13,john,hoeven,republican,11600,11600,0,Forcht Group of Kentucky,NDS1,ND,41107
+14,john,hoeven,republican,11600,11600,0,Hunt Companies,NDS1,ND,41107
+15,john,hoeven,republican,11600,11600,0,Bobby Cox Companies,NDS1,ND,41107
+16,john,hoeven,republican,11600,11600,0,Lmbi Lp,NDS1,ND,41107
+17,john,hoeven,republican,11600,11600,0,Reliance Telephone,NDS1,ND,41107
+18,john,hoeven,republican,11600,11600,0,Standard Industries,NDS1,ND,41107
+19,john,hoeven,republican,11550,11550,0,State of North Dakota,NDS1,ND,41107
+0,tom,cotton,republican,49035,49035,0,Apollo Global Management,ARS1,AR,21301
+1,tom,cotton,republican,33550,33550,0,Pro-israel America PAC,ARS1,AR,21301
+2,tom,cotton,republican,26325,21325,5000,Stephens Group,ARS1,AR,21301
+3,tom,cotton,republican,25400,25400,0,McNa Dental Plans,ARS1,AR,21301
+4,tom,cotton,republican,22400,22400,0,Reyes Holdings,ARS1,AR,21301
+5,tom,cotton,republican,20849,14849,6000,Wells Fargo,ARS1,AR,21301
+6,tom,cotton,republican,20561,15561,5000,Walmart Inc,ARS1,AR,21301
+7,tom,cotton,republican,16800,16800,0,Amway/Alticor Inc,ARS1,AR,21301
+8,tom,cotton,republican,15875,5875,10000,Murphy Oil,ARS1,AR,21301
+9,tom,cotton,republican,14413,14413,0,Blackstone Group                        ,ARS1,AR,21301
+10,tom,cotton,republican,14225,14225,0,"Paul, Weiss et al",ARS1,AR,21301
+11,tom,cotton,republican,13305,8305,5000,Bank of America,ARS1,AR,21301
+12,tom,cotton,republican,12791,2791,10000,Boeing Co,ARS1,AR,21301
+13,tom,cotton,republican,12500,2500,10000,American Forest & Paper Assn,ARS1,AR,21301
+14,tom,cotton,republican,12500,2500,10000,Experian,ARS1,AR,21301
+15,tom,cotton,republican,11665,1165,10500,Raytheon Technologies,ARS1,AR,21301
+16,tom,cotton,republican,11600,6600,5000,Senate Conservatives Fund,ARS1,AR,21301
+17,tom,cotton,republican,11300,11300,0,Sembler Co,ARS1,AR,21301
+18,tom,cotton,republican,11200,11200,0,Dyke Industries,ARS1,AR,21301
+19,tom,cotton,republican,11200,11200,0,Arizona Diamondbacks,ARS1,AR,21301
+0,richard,blumenthal,democrat,146513,138613,7900,American Israel Public Affairs Cmte,CTS2,CT,41101
+1,richard,blumenthal,democrat,83100,83100,0,"Paul, Weiss et al",CTS2,CT,41101
+2,richard,blumenthal,democrat,76400,76400,0,Apollo Global Management,CTS2,CT,41101
+3,richard,blumenthal,democrat,51600,51600,0,Pro-Israel America PAC,CTS2,CT,41101
+4,richard,blumenthal,democrat,47700,40200,7500,Charter Communications,CTS2,CT,41101
+5,richard,blumenthal,democrat,41099,41099,0,Gori Law Firm,CTS2,CT,41101
+6,richard,blumenthal,democrat,34100,24100,10000,Comcast Corp,CTS2,CT,41101
+7,richard,blumenthal,democrat,33600,33600,0,Simmons Hanly Conroy,CTS2,CT,41101
+8,richard,blumenthal,democrat,31900,31900,0,Entertainment Studios,CTS2,CT,41101
+9,richard,blumenthal,democrat,31430,31430,0,Yale University,CTS2,CT,41101
+10,richard,blumenthal,democrat,29282,29282,0,"Koskoff, Koskoff & Bieder",CTS2,CT,41101
+11,richard,blumenthal,democrat,27750,27750,0,Motley Rice LLC,CTS2,CT,41101
+12,richard,blumenthal,democrat,27300,27300,0,"Wachtell, Lipton et al                  ",CTS2,CT,41101
+13,richard,blumenthal,democrat,26648,26648,0,"Lieff, Cabraser et al",CTS2,CT,41101
+14,richard,blumenthal,democrat,26600,26600,0,Belfer Management,CTS2,CT,41101
+15,richard,blumenthal,democrat,26550,26550,0,General Dynamics,CTS2,CT,41101
+16,richard,blumenthal,democrat,25100,25100,0,Kirby McInerney Llp,CTS2,CT,41101
+17,richard,blumenthal,democrat,24000,24000,0,Clifford Law Offices,CTS2,CT,41101
+18,richard,blumenthal,democrat,23533,23533,0,Power Rogers Llp,CTS2,CT,41101
+19,richard,blumenthal,democrat,23200,23200,0,Starkey Hearing Technologies,CTS2,CT,41101
+0,joe,manchin,democrat,100000,0,100000,West Virginia State Democratic Exec Cmte,WVS1,WV,40915
+1,joe,manchin,democrat,86400,86400,0,Capital Group,WVS1,WV,40915
+2,joe,manchin,democrat,80425,80425,0,Mylan Inc,WVS1,WV,40915
+3,joe,manchin,democrat,56000,46000,10000,Goldman Sachs,WVS1,WV,40915
+4,joe,manchin,democrat,46425,43925,2500,Steptoe & Johnson,WVS1,WV,40915
+5,joe,manchin,democrat,45900,45900,0,Wexford Capital,WVS1,WV,40915
+6,joe,manchin,democrat,41800,41800,0,NorPAC,WVS1,WV,40915
+7,joe,manchin,democrat,41700,31700,10000,Capital Group Companies,WVS1,WV,40915
+8,joe,manchin,democrat,32400,32400,0,"Wilson, Sonsini et al",WVS1,WV,40915
+9,joe,manchin,democrat,27603,17603,10000,Comcast Corp,WVS1,WV,40915
+10,joe,manchin,democrat,27500,27500,0,"Paul, Weiss et al",WVS1,WV,40915
+11,joe,manchin,democrat,24900,19900,5000,Drummond Co,WVS1,WV,40915
+12,joe,manchin,democrat,23450,23450,0,"Power, Rogers & Smith",WVS1,WV,40915
+13,joe,manchin,democrat,21600,21600,0,Ares Management,WVS1,WV,40915
+14,joe,manchin,democrat,20450,10450,10000,General Atomics,WVS1,WV,40915
+15,joe,manchin,democrat,19900,19900,0,Centerview Partners,WVS1,WV,40915
+16,joe,manchin,democrat,18700,16200,2500,Loews Corp,WVS1,WV,40915
+17,joe,manchin,democrat,17200,17200,0,N3,WVS1,WV,40915
+18,joe,manchin,democrat,17000,9000,8000,DCI Group,WVS1,WV,40915
+19,joe,manchin,democrat,16800,16800,0,Mostyn Law Firm,WVS1,WV,40915
+0,gary,peters,democrat,543528,543528,0,University of Michigan,MIS1,MI,20923
+1,gary,peters,democrat,238046,231046,7000,Alphabet Inc,MIS1,MI,20923
+2,gary,peters,democrat,180556,180556,0,University of California                ,MIS1,MI,20923
+3,gary,peters,democrat,161708,161708,0,Michigan State University,MIS1,MI,20923
+4,gary,peters,democrat,124135,115635,8500,Goldman Sachs,MIS1,MI,20923
+5,gary,peters,democrat,111192,111192,0,Democracy Engine,MIS1,MI,20923
+6,gary,peters,democrat,110570,110570,0,State of Michigan                       ,MIS1,MI,20923
+7,gary,peters,democrat,110371,100371,10000,Microsoft Corp,MIS1,MI,20923
+8,gary,peters,democrat,102753,93753,9000,Henry Ford Health System,MIS1,MI,20923
+9,gary,peters,democrat,98065,93065,5000,General Motors,MIS1,MI,20923
+10,gary,peters,democrat,91718,85718,6000,Walt Disney Co,MIS1,MI,20923
+11,gary,peters,democrat,89811,79811,10000,Amazon.com,MIS1,MI,20923
+12,gary,peters,democrat,85531,80531,5000,Blue Cross/Blue Shield,MIS1,MI,20923
+13,gary,peters,democrat,85492,85492,0,Apple Inc,MIS1,MI,20923
+14,gary,peters,democrat,84884,84884,0,Blackstone Group,MIS1,MI,20923
+15,gary,peters,democrat,82771,79271,3500,Ford Motor Co,MIS1,MI,20923
+16,gary,peters,democrat,73717,73717,0,Wayne State University,MIS1,MI,20923
+17,gary,peters,democrat,70253,65253,5000,Facebook Inc,MIS1,MI,20923
+18,gary,peters,democrat,66327,66327,0,US Government,MIS1,MI,20923
+19,gary,peters,democrat,64164,54164,10000,American Airlines Group,MIS1,MI,20923
+0,dick,durbin,democrat,62060,62060,0,State of Illinois,ILS1,IL,15021
+1,dick,durbin,democrat,56066,56066,0,Power Rogers LLP,ILS1,IL,15021
+2,dick,durbin,democrat,50600,50600,0,Votesane PAC,ILS1,IL,15021
+3,dick,durbin,democrat,47281,39281,8000,United Airlines Holdings,ILS1,IL,15021
+4,dick,durbin,democrat,45706,45706,0,Kirkland & Ellis,ILS1,IL,15021
+5,dick,durbin,democrat,42750,42750,0,Simmons Hanly Conroy,ILS1,IL,15021
+6,dick,durbin,democrat,36448,36448,0,Jenner & Block,ILS1,IL,15021
+7,dick,durbin,democrat,35800,35800,0,GCM Grosvenor,ILS1,IL,15021
+8,dick,durbin,democrat,32675,23675,9000,General Dynamics,ILS1,IL,15021
+9,dick,durbin,democrat,32049,27649,4400,AAR Corp,ILS1,IL,15021
+10,dick,durbin,democrat,24883,24883,0,Cooney & Conway,ILS1,IL,15021
+11,dick,durbin,democrat,24310,24310,0,Corboy & Demetrio,ILS1,IL,15021
+12,dick,durbin,democrat,23021,23021,0,University of Illinois                  ,ILS1,IL,15021
+13,dick,durbin,democrat,20291,12791,7500,Comcast Corp,ILS1,IL,15021
+14,dick,durbin,democrat,20150,15150,5000,General Atomics,ILS1,IL,15021
+15,dick,durbin,democrat,19906,11906,8000,Microsoft Corp,ILS1,IL,15021
+16,dick,durbin,democrat,19750,19750,0,Clifford Law Offices,ILS1,IL,15021
+17,dick,durbin,democrat,19315,19315,0,University of Chicago,ILS1,IL,15021
+18,dick,durbin,democrat,19115,12115,7000,J Street,ILS1,IL,15021
+19,dick,durbin,democrat,18818,18818,0,Apollo Global Management,ILS1,IL,15021
+20,roger,marshall,republican,43600,43600,0,Nueterra Capital,KSS1,KS,21734
+21,roger,marshall,republican,32500,22500,10000,Poet LLC,KSS1,KS,21734
+22,roger,marshall,republican,22036,12036,10000,Burns & McDonnell,KSS1,KS,21734
+23,roger,marshall,republican,20200,12400,7800,Susan B Anthony List,KSS1,KS,21734
+24,roger,marshall,republican,20000,20000,0,Watco Companies,KSS1,KS,21734
+25,roger,marshall,republican,19100,9100,10000,Goldman Sachs,KSS1,KS,21734
+26,roger,marshall,republican,18900,18900,0,Bukaty Companies,KSS1,KS,21734
+27,roger,marshall,republican,17600,7600,10000,Bristol-Myers Squibb,KSS1,KS,21734
+28,roger,marshall,republican,16800,16800,0,Innovative Livestock Services,KSS1,KS,21734
+29,roger,marshall,republican,16635,6635,10000,Koch Industries,KSS1,KS,21734
+30,roger,marshall,republican,15600,5600,10000,Rock Holdings,KSS1,KS,21734
+31,roger,marshall,republican,15100,100,15000,American Medical Assn,KSS1,KS,21734
+32,roger,marshall,republican,14820,7320,7500,Kansas City Southern,KSS1,KS,21734
+33,roger,marshall,republican,14500,2000,12500,Alston & Bird,KSS1,KS,21734
+34,roger,marshall,republican,14200,14200,0,P&B Insurance Agency,KSS1,KS,21734
+35,roger,marshall,republican,13900,13900,0,Blackstone Group,KSS1,KS,21734
+36,roger,marshall,republican,13100,5600,7500,Crawford Group,KSS1,KS,21734
+37,roger,marshall,republican,13070,70,13000,United Parcel Service,KSS1,KS,21734
+38,roger,marshall,republican,12575,2575,10000,Spirit Aerosystems,KSS1,KS,21734
+39,roger,marshall,republican,12500,2500,10000,CRH PLC,KSS1,KS,21734
+0,tom,carper,democrat,59200,49200,10000,MetLife Inc,DES1,DE,15015
+1,tom,carper,democrat,49249,49249,0,Democracy Engine,DES1,DE,15015
+2,tom,carper,democrat,30200,21200,9000,DowDuPont,DES1,DE,15015
+3,tom,carper,democrat,28725,18725,10000,Goldman Sachs,DES1,DE,15015
+4,tom,carper,democrat,28500,18500,10000,Discover Financial Services,DES1,DE,15015
+5,tom,carper,democrat,23155,13155,10000,Merck & Co,DES1,DE,15015
+6,tom,carper,democrat,21375,13875,7500,JPMorgan Chase & Co,DES1,DE,15015
+7,tom,carper,democrat,18900,18900,0,"Kleiner, Perkins et al",DES1,DE,15015
+8,tom,carper,democrat,18690,18690,0,"Young, Conaway et al",DES1,DE,15015
+9,tom,carper,democrat,18500,13500,5000,Hallmark Cards,DES1,DE,15015
+10,tom,carper,democrat,18300,18300,0,Bowles & Co,DES1,DE,15015
+11,tom,carper,democrat,16110,11110,5000,King & Spalding,DES1,DE,15015
+12,tom,carper,democrat,15800,5800,10000,Pfizer Inc,DES1,DE,15015
+13,tom,carper,democrat,15400,5400,10000,Amgen Inc,DES1,DE,15015
+14,tom,carper,democrat,15400,5400,10000,League of Conservation Voters,DES1,DE,15015
+15,tom,carper,democrat,15100,5100,10000,Wells Fargo,DES1,DE,15015
+16,tom,carper,democrat,15000,5000,10000,New York Life Insurance,DES1,DE,15015
+17,tom,carper,democrat,15000,5000,10000,Visa Inc,DES1,DE,15015
+18,tom,carper,democrat,14600,14600,0,"Welsh, Carson et al",DES1,DE,15015
+19,tom,carper,democrat,14528,4528,10000,Bank of America,DES1,DE,15015
+0,todd,young,republican,218220,218220,0,Democracy Engine,INS2,IN,21133
+1,todd,young,republican,90500,88400,2100,American Israel Public Affairs Cmte,INS2,IN,21133
+2,todd,young,republican,56400,49900,6500,Blue Cross/Blue Shield,INS2,IN,21133
+3,todd,young,republican,54950,43950,11000,Apollo Global Management,INS2,IN,21133
+4,todd,young,republican,44584,41084,3500,Barnes & Thornburg,INS2,IN,21133
+5,todd,young,republican,40960,40960,0,"Welsh, Carson et al                     ",INS2,IN,21133
+6,todd,young,republican,36200,26200,10000,Alphabet Inc,INS2,IN,21133
+7,todd,young,republican,35410,35410,0,Capital Group,INS2,IN,21133
+8,todd,young,republican,30550,23550,7000,DISH Network,INS2,IN,21133
+9,todd,young,republican,28850,25850,3000,Cummins Inc,INS2,IN,21133
+10,todd,young,republican,27194,27194,0,State of Indiana,INS2,IN,21133
+11,todd,young,republican,24115,16365,7750,"Akin, Gump et al",INS2,IN,21133
+12,todd,young,republican,23850,23850,0,Shepherd Insurance,INS2,IN,21133
+13,todd,young,republican,23800,13800,10000,American United Life Insurance,INS2,IN,21133
+14,todd,young,republican,23499,23499,0,Ice Miller LLP,INS2,IN,21133
+15,todd,young,republican,22200,17700,4500,"Brownstein, Hyatt et al",INS2,IN,21133
+16,todd,young,republican,22050,12050,10000,Novocure Inc,INS2,IN,21133
+17,todd,young,republican,21250,16250,5000,Exelon Corp,INS2,IN,21133
+18,todd,young,republican,20600,11600,9000,Duke Energy,INS2,IN,21133
+19,todd,young,republican,19300,16800,2500,Berkshire Hathaway,INS2,IN,21133
+0,lisa,murkowski,republican,49566,49566,0,KKR & Co,AKS2,AK,40300
+1,lisa,murkowski,republican,40350,30350,10000,ConocoPhillips,AKS2,AK,40300
+2,lisa,murkowski,republican,36250,33150,3100,Trident Seafoods,AKS2,AK,40300
+3,lisa,murkowski,republican,34000,24000,10000,American Israel Public Affairs Cmte,AKS2,AK,40300
+4,lisa,murkowski,republican,33700,23700,10000,BlackRock Inc,AKS2,AK,40300
+5,lisa,murkowski,republican,32950,30450,2500,NextEra Energy,AKS2,AK,40300
+6,lisa,murkowski,republican,31250,31250,0,NorPAC,AKS2,AK,40300
+7,lisa,murkowski,republican,29700,29700,0,Blackstone Group,AKS2,AK,40300
+8,lisa,murkowski,republican,25500,16500,9000,Alphabet Inc,AKS2,AK,40300
+9,lisa,murkowski,republican,25400,21900,3500,Exelon Corp,AKS2,AK,40300
+10,lisa,murkowski,republican,25200,25200,0,Apollo Global Management,AKS2,AK,40300
+11,lisa,murkowski,republican,24266,20266,4000,Saltchuk,AKS2,AK,40300
+12,lisa,murkowski,republican,23800,23800,0,Qurate Retail,AKS2,AK,40300
+13,lisa,murkowski,republican,23200,23200,0,Freedom Road LLC (Colorado),AKS2,AK,40300
+14,lisa,murkowski,republican,23200,23200,0,Hunt Companies,AKS2,AK,40300
+15,lisa,murkowski,republican,22856,12856,10000,Chevron Corp,AKS2,AK,40300
+16,lisa,murkowski,republican,22250,2250,20000,Wells Fargo,AKS2,AK,40300
+17,lisa,murkowski,republican,19800,12800,7000,Alaska Air Group,AKS2,AK,40300
+18,lisa,murkowski,republican,17400,17400,0,Walton Family Foundation,AKS2,AK,40300
+19,lisa,murkowski,republican,17100,7100,10000,Rock Holdings,AKS2,AK,40300
+0,michael,bennet,democrat,232232,232232,0,Democracy Engine,COS1,CO,40910
+1,michael,bennet,democrat,75800,65800,10000,American Israel Public Affairs Cmte,COS1,CO,40910
+2,michael,bennet,democrat,66087,66087,0,University of Colorado,COS1,CO,40910
+3,michael,bennet,democrat,54300,54300,0,"Paul, Weiss et al",COS1,CO,40910
+4,michael,bennet,democrat,53300,53300,0,Blackstone Group,COS1,CO,40910
+5,michael,bennet,democrat,52500,52500,0,Votesane PAC,COS1,CO,40910
+6,michael,bennet,democrat,47450,47450,0,DISH Network,COS1,CO,40910
+7,michael,bennet,democrat,45925,40925,5000,Arnold & Porter Kaye Scholer,COS1,CO,40910
+8,michael,bennet,democrat,45500,45500,0,Apollo Global Management,COS1,CO,40910
+9,michael,bennet,democrat,39025,39025,0,Alphabet Inc,COS1,CO,40910
+10,michael,bennet,democrat,36700,36700,0,Wilmerhale LLP,COS1,CO,40910
+11,michael,bennet,democrat,36605,36605,0,State of Colorado,COS1,CO,40910
+12,michael,bennet,democrat,31900,31900,0,BlackRock Inc,COS1,CO,40910
+13,michael,bennet,democrat,31400,31400,0,J Street,COS1,CO,40910
+14,michael,bennet,democrat,27333,27333,0,Council for a Livable World,COS1,CO,40910
+15,michael,bennet,democrat,26100,26100,0,Comcast Corp,COS1,CO,40910
+16,michael,bennet,democrat,24950,24950,0,University of California,COS1,CO,40910
+17,michael,bennet,democrat,23700,23700,0,Warner Brothers Discovery,COS1,CO,40910
+18,michael,bennet,democrat,23200,23200,0,Varana Capital,COS1,CO,40910
+19,michael,bennet,democrat,23200,23200,0,"Kleiner, Perkins et al",COS1,CO,40910
+20,kevin,cramer,republican,63900,63900,0,Energy Transfer Partners,NDS2,ND,21350
+21,kevin,cramer,republican,47400,0,47400,National Republican Senatorial Cmte,NDS2,ND,21350
+22,kevin,cramer,republican,44850,44850,0,Ellingson Companies,NDS2,ND,21350
+23,kevin,cramer,republican,32166,22166,10000,Alliance Coal,NDS2,ND,21350
+24,kevin,cramer,republican,27550,27550,0,State of North Dakota,NDS2,ND,21350
+25,kevin,cramer,republican,27000,27000,0,Blackstone Group,NDS2,ND,21350
+26,kevin,cramer,republican,26500,19000,7500,Marathon Oil,NDS2,ND,21350
+27,kevin,cramer,republican,21600,21600,0,Alticor Inc,NDS2,ND,21350
+28,kevin,cramer,republican,21600,21600,0,Yancy Brothers Co,NDS2,ND,21350
+29,kevin,cramer,republican,20400,20400,0,Oasis Petroleum,NDS2,ND,21350
+30,kevin,cramer,republican,19900,19900,0,Mbi Energy Services,NDS2,ND,21350
+31,kevin,cramer,republican,19200,17700,1500,DaVita Inc,NDS2,ND,21350
+32,kevin,cramer,republican,18500,18500,0,Jennmar Corp,NDS2,ND,21350
+33,kevin,cramer,republican,18100,8100,10000,Devon Energy,NDS2,ND,21350
+34,kevin,cramer,republican,17700,17700,0,University of North Dakota,NDS2,ND,21350
+35,kevin,cramer,republican,17600,7600,10000,Republican Jewish Coalition,NDS2,ND,21350
+36,kevin,cramer,republican,16200,16200,0,Cardon Global,NDS2,ND,21350
+37,kevin,cramer,republican,16200,16200,0,Freeman Spogli & Co,NDS2,ND,21350
+38,kevin,cramer,republican,16200,16200,0,TCW Group,NDS2,ND,21350
+39,kevin,cramer,republican,16200,16200,0,Tharaldson Hospitality,NDS2,ND,21350
+0,john,boozman,republican,176992,176992,0,Votesane PAC,ARS2,AR,20101
+1,john,boozman,republican,64500,64500,0,Pro-Israel America PAC,ARS2,AR,20101
+2,john,boozman,republican,54350,44350,10000,Stephens Inc,ARS2,AR,20101
+3,john,boozman,republican,49100,49100,0,2022 Senators Classic,ARS2,AR,20101
+4,john,boozman,republican,38750,28750,10000,Tyson Foods,ARS2,AR,20101
+5,john,boozman,republican,33800,33800,0,McKee Foods,ARS2,AR,20101
+6,john,boozman,republican,32930,22930,10000,Walmart Inc,ARS2,AR,20101
+7,john,boozman,republican,28300,23300,5000,General Atomics,ARS2,AR,20101
+8,john,boozman,republican,25000,20000,5000,NextEra Energy,ARS2,AR,20101
+9,john,boozman,republican,23200,23200,0,FTX.US,ARS2,AR,20101
+10,john,boozman,republican,22500,22500,0,NorPAC,ARS2,AR,20101
+11,john,boozman,republican,22200,22200,0,Stephens Group,ARS2,AR,20101
+12,john,boozman,republican,19800,10800,9000,"Brownstein, Hyatt et al",ARS2,AR,20101
+13,john,boozman,republican,19500,9500,10000,Comcast Corp,ARS2,AR,20101
+14,john,boozman,republican,19450,19450,0,Cornerstone Government Affairs,ARS2,AR,20101
+15,john,boozman,republican,18523,14900,3623,Van Scoyoc Assoc,ARS2,AR,20101
+16,john,boozman,republican,17400,17400,0,Starkey Hearing Technologies,ARS2,AR,20101
+17,john,boozman,republican,16900,16900,0,Maxwell Hardwood Flooring,ARS2,AR,20101
+18,john,boozman,republican,15922,15922,0,Energy Transfer LP,ARS2,AR,20101
+19,john,boozman,republican,15500,15500,0,Blackstone Group,ARS2,AR,20101
+0,tammy,duckworth,democrat,170570,160570,10000,EMILY's List,ILS2,IL,21325
+1,tammy,duckworth,democrat,75404,75404,0,Democracy Engine,ILS2,IL,21325
+2,tammy,duckworth,democrat,48900,48900,0,Simmons Hanly Conroy,ILS2,IL,21325
+3,tammy,duckworth,democrat,44286,43286,1000,United Airlines Holdings,ILS2,IL,21325
+4,tammy,duckworth,democrat,35750,34750,1000,J Street,ILS2,IL,21325
+5,tammy,duckworth,democrat,35630,25630,10000,Bunge Ltd,ILS2,IL,21325
+6,tammy,duckworth,democrat,32331,24831,7500,Centene Corp,ILS2,IL,21325
+7,tammy,duckworth,democrat,31280,28280,3000,L3Harris Technologies,ILS2,IL,21325
+8,tammy,duckworth,democrat,26710,26710,0,State of Illinois                       ,ILS2,IL,21325
+9,tammy,duckworth,democrat,25250,25250,0,AAR Corp,ILS2,IL,21325
+10,tammy,duckworth,democrat,23200,23200,0,Clifford Law Offices,ILS2,IL,21325
+11,tammy,duckworth,democrat,21340,21340,0,Mesirow Financial,ILS2,IL,21325
+12,tammy,duckworth,democrat,21095,17970,3125,League of Conservation Voters,ILS2,IL,21325
+13,tammy,duckworth,democrat,19400,19400,0,Power Rogers Llp,ILS2,IL,21325
+14,tammy,duckworth,democrat,19145,19145,0,Cooney & Conway,ILS2,IL,21325
+15,tammy,duckworth,democrat,18605,11605,7000,Blue Cross/Blue Shield,ILS2,IL,21325
+16,tammy,duckworth,democrat,17933,17933,0,Marquis Energy,ILS2,IL,21325
+17,tammy,duckworth,democrat,16374,13874,2500,Alphabet Inc,ILS2,IL,21325
+18,tammy,duckworth,democrat,15800,5800,10000,American Israel Public Affairs Cmte,ILS2,IL,21325
+19,tammy,duckworth,democrat,15800,15800,0,Kirkland & Ellis,ILS2,IL,21325
+0,debbie,stabenow,democrat,208170,198170,10000,EMILY's List,MIS2,MI,29732
+1,debbie,stabenow,democrat,135423,135423,0,University of Michigan,MIS2,MI,29732
+2,debbie,stabenow,democrat,101000,101000,0,Votesane PAC,MIS2,MI,29732
+3,debbie,stabenow,democrat,94800,0,94800,Democratic Senatorial Campaign Cmte,MIS2,MI,29732
+4,debbie,stabenow,democrat,94800,0,94800,Democratic Senatorial Campaign Cmte,MIS2,MI,29732
+5,debbie,stabenow,democrat,87675,87675,0,"Paul, Weiss et al",MIS2,MI,29732
+6,debbie,stabenow,democrat,79097,73597,5500,DowDuPont,MIS2,MI,29732
+7,debbie,stabenow,democrat,69793,69793,0,Democracy Engine,MIS2,MI,29732
+8,debbie,stabenow,democrat,58668,50668,8000,DTE Energy,MIS2,MI,29732
+9,debbie,stabenow,democrat,57968,51968,6000,Henry Ford Health System,MIS2,MI,29732
+10,debbie,stabenow,democrat,57090,47090,10000,Quicken Loans,MIS2,MI,29732
+11,debbie,stabenow,democrat,54350,54350,0,Blue Cross/Blue Shield,MIS2,MI,29732
+12,debbie,stabenow,democrat,49995,39995,10000,Goldman Sachs,MIS2,MI,29732
+13,debbie,stabenow,democrat,45228,35228,10000,Ford Motor Co,MIS2,MI,29732
+14,debbie,stabenow,democrat,42500,42500,0,NorPAC,MIS2,MI,29732
+15,debbie,stabenow,democrat,41963,31963,10000,Citigroup Inc,MIS2,MI,29732
+16,debbie,stabenow,democrat,38200,28200,10000,Delta Dental Plans Assn,MIS2,MI,29732
+17,debbie,stabenow,democrat,37133,37113,20,Womencount PAC,MIS2,MI,29732
+18,debbie,stabenow,democrat,36010,26010,10000,JPMorgan Chase & Co,MIS2,MI,29732
+19,debbie,stabenow,democrat,35823,35823,0,Michigan State University,MIS2,MI,29732
+20,debbie,stabenow,democrat,35500,35500,0,Sterling Group,MIS2,MI,29732
+0,jerry,moran,republican,129925,129925,0,Votesane PAC,KSS2,KS,29722
+1,jerry,moran,republican,67000,57000,10000,American Israel Public Affairs Cmte,KSS2,KS,29722
+2,jerry,moran,republican,43600,33600,10000,DISH Network,KSS2,KS,29722
+3,jerry,moran,republican,36800,36800,0,Apollo Global Management,KSS2,KS,29722
+4,jerry,moran,republican,31950,24950,7000,Cox Enterprises                         ,KSS2,KS,29722
+5,jerry,moran,republican,26400,16400,10000,Comcast Corp,KSS2,KS,29722
+6,jerry,moran,republican,24800,24800,0,NorPAC,KSS2,KS,29722
+7,jerry,moran,republican,24500,17000,7500,NextEra Energy,KSS2,KS,29722
+8,jerry,moran,republican,24000,24000,0,GEO Group,KSS2,KS,29722
+9,jerry,moran,republican,23050,18050,5000,Berkshire Hathaway,KSS2,KS,29722
+10,jerry,moran,republican,22100,22100,0,General Atomics,KSS2,KS,29722
+11,jerry,moran,republican,21000,21000,0,Kit Bond Strategies,KSS2,KS,29722
+12,jerry,moran,republican,17400,17400,0,Castle Harlan Inc,KSS2,KS,29722
+13,jerry,moran,republican,17000,7000,10000,National Assn of Broadcasters,KSS2,KS,29722
+14,jerry,moran,republican,15922,15922,0,Energy Transfer LP,KSS2,KS,29722
+15,jerry,moran,republican,14753,14753,0,Walter Oil & Gas,KSS2,KS,29722
+16,jerry,moran,republican,14400,4400,10000,Microsoft Corp,KSS2,KS,29722
+17,jerry,moran,republican,13800,5800,8000,Koch Industries,KSS2,KS,29722
+18,jerry,moran,republican,13799,6299,7500,JPMorgan Chase & Co,KSS2,KS,29722
+19,jerry,moran,republican,13100,5600,7500,"Brownstein, Hyatt et al                 ",KSS2,KS,29722
+0,chris,coons,democrat,97975,97975,0,"Young, Conaway et al                    ",DES2,DE,40916
+1,chris,coons,democrat,79100,79100,0,Apollo Global Management,DES2,DE,40916
+2,chris,coons,democrat,54100,54100,0,Jane Street Capital                               ,DES2,DE,40916
+3,chris,coons,democrat,32777,26777,6000,DuPont Co,DES2,DE,40916
+4,chris,coons,democrat,31500,31500,0,Democracy Engine,DES2,DE,40916
+5,chris,coons,democrat,31000,23500,7500,Amgen Inc,DES2,DE,40916
+6,chris,coons,democrat,28000,28000,0,Centerview Partners,DES2,DE,40916
+7,chris,coons,democrat,27514,17514,10000,Comcast Corp,DES2,DE,40916
+8,chris,coons,democrat,25020,15020,10000,Microsoft Corp,DES2,DE,40916
+9,chris,coons,democrat,23500,23500,0,Grant & Eisenhofer,DES2,DE,40916
+10,chris,coons,democrat,23300,23300,0,Bergman Draper Oslund,DES2,DE,40916
+11,chris,coons,democrat,23000,13000,10000,DISH Network,DES2,DE,40916
+12,chris,coons,democrat,22600,14600,8000,Discover Financial Services,DES2,DE,40916
+13,chris,coons,democrat,21100,21100,0,Gfp Real Estate,DES2,DE,40916
+14,chris,coons,democrat,20901,20901,0,Blackstone Group,DES2,DE,40916
+15,chris,coons,democrat,20608,20608,0,WL Gore & Assoc,DES2,DE,40916
+16,chris,coons,democrat,20100,15100,5000,Goldman Sachs,DES2,DE,40916
+17,chris,coons,democrat,19800,19800,0,Sullivan & Cromwell,DES2,DE,40916
+18,chris,coons,democrat,18605,11605,7000,K&L Gates,DES2,DE,40916
+19,chris,coons,democrat,17000,17000,0,Buccini/Pollin Group,DES2,DE,40916
+21,mike,braun,republican,217112,217112,0,Senate Conservatives Fund,INS1,IN,41900
+22,mike,braun,republican,82183,82183,0,Club for Growth,INS1,IN,41900
+23,mike,braun,republican,47400,0,47400,National Republican Senatorial Cmte,INS1,IN,41900
+24,mike,braun,republican,45800,45800,0,Jasper Engines & Transmissions,INS1,IN,41900
+25,mike,braun,republican,38400,28400,10000,Alliance Coal,INS1,IN,41900
+26,mike,braun,republican,37800,37800,0,Reyes Holdings                                    ,INS1,IN,41900
+27,mike,braun,republican,29500,29500,0,Wabash Valley Produce,INS1,IN,41900
+28,mike,braun,republican,27100,27100,0,Streicher Construction,INS1,IN,41900
+29,mike,braun,republican,22100,22100,0,Magnolia Health Systems,INS1,IN,41900
+30,mike,braun,republican,21600,21600,0,Ackerman Oil,INS1,IN,41900
+31,mike,braun,republican,21600,21600,0,Jennmar Corp,INS1,IN,41900
+32,mike,braun,republican,21600,21600,0,Putco Inc,INS1,IN,41900
+33,mike,braun,republican,20650,20650,0,Barnes & Thornburg,INS1,IN,41900
+34,mike,braun,republican,20650,15650,5000,Eli Lilly & Co,INS1,IN,41900
+35,mike,braun,republican,20100,20100,0,Graber Post Buildings,INS1,IN,41900
+36,mike,braun,republican,17700,17700,0,Enterprise Holdings,INS1,IN,41900
+37,mike,braun,republican,16200,16200,0,Maple Leaf Farms,INS1,IN,41900
+38,mike,braun,republican,15850,10850,5000,Republican Jewish Coalition,INS1,IN,41900
+39,mike,braun,republican,15400,12900,2500,Wells Fargo,INS1,IN,41900
+40,mike,braun,republican,15000,10000,5000,Goldman Sachs,INS1,IN,41900
+0,dan,sullivan,republican,48875,48875,0,Rpm International                                 ,AKS1,AK,41500
+1,dan,sullivan,republican,47200,47200,0,Goldman Sachs,AKS1,AK,41500
+2,dan,sullivan,republican,44800,44800,0,"Calfee, Halter & Griswold",AKS1,AK,41500
+3,dan,sullivan,republican,44700,44700,0,Elliott Management,AKS1,AK,41500
+4,dan,sullivan,republican,30554,23000,7554,Citizens for Prosperity in America Today,AKS1,AK,41500
+5,dan,sullivan,republican,25950,25950,0,"Paul, Weiss et al",AKS1,AK,41500
+6,dan,sullivan,republican,25250,15250,10000,General Atomics,AKS1,AK,41500
+7,dan,sullivan,republican,24900,24900,0,Blackstone Group,AKS1,AK,41500
+8,dan,sullivan,republican,23800,20900,2900,Trident Seafoods,AKS1,AK,41500
+9,dan,sullivan,republican,23410,23410,0,Apollo Global Management,AKS1,AK,41500
+10,dan,sullivan,republican,23300,16800,6500,Polaris Industries,AKS1,AK,41500
+11,dan,sullivan,republican,22814,22814,0,State of Alaska,AKS1,AK,41500
+12,dan,sullivan,republican,20937,11937,9000,FedEx Corp,AKS1,AK,41500
+13,dan,sullivan,republican,20540,10540,10000,Alaska Air Group,AKS1,AK,41500
+14,dan,sullivan,republican,20200,20200,0,Cohen Group,AKS1,AK,41500
+15,dan,sullivan,republican,20000,20000,0,Century 21 Department Stores,AKS1,AK,41500
+16,dan,sullivan,republican,19600,19600,0,Freeman Spogli & Co,AKS1,AK,41500
+17,dan,sullivan,republican,18400,8400,10000,DISH Network,AKS1,AK,41500
+18,dan,sullivan,republican,18300,18300,0,Hunt Companies,AKS1,AK,41500
+19,dan,sullivan,republican,17675,7675,10000,ConocoPhillips,AKS1,AK,41500
+0,ron,wyden,democrat,109250,109250,0,Democracy Engine,ORS2,OR,14871
+1,ron,wyden,democrat,74475,64475,10000,Nike Inc,ORS2,OR,14871
+2,ron,wyden,democrat,66605,56605,10000,Intel Corp,ORS2,OR,14871
+3,ron,wyden,democrat,55016,22516,32500,Blue Cross/Blue Shield,ORS2,OR,14871
+4,ron,wyden,democrat,46300,46300,0,Synergi Partners,ORS2,OR,14871
+5,ron,wyden,democrat,44750,34750,10000,Centene Corp,ORS2,OR,14871
+6,ron,wyden,democrat,40000,30000,10000,Huntsman Corp,ORS2,OR,14871
+7,ron,wyden,democrat,38500,38500,0,"Welsh, Carson et al",ORS2,OR,14871
+8,ron,wyden,democrat,38400,38400,0,Lazard Ltd,ORS2,OR,14871
+9,ron,wyden,democrat,30000,30000,0,Capital Group,ORS2,OR,14871
+10,ron,wyden,democrat,28850,28850,0,Foxkiser,ORS2,OR,14871
+11,ron,wyden,democrat,28200,28200,0,Gene Tools,ORS2,OR,14871
+12,ron,wyden,democrat,27900,17900,10000,Capital Group Companies                 ,ORS2,OR,14871
+13,ron,wyden,democrat,25800,15800,10000,Illumina Inc,ORS2,OR,14871
+14,ron,wyden,democrat,24746,24746,0,Union Square Ventures,ORS2,OR,14871
+15,ron,wyden,democrat,24200,22100,2100,American Israel Public Affairs Cmte,ORS2,OR,14871
+16,ron,wyden,democrat,23650,23650,0,Southern Current,ORS2,OR,14871
+17,ron,wyden,democrat,23450,23450,0,Stanford University                     ,ORS2,OR,14871
+18,ron,wyden,democrat,23200,23200,0,Metro West Ambulance,ORS2,OR,14871
+19,ron,wyden,democrat,23200,23200,0,Freedom Road LLC (Colorado),ORS2,OR,14871
+0,jon,tester,democrat,512845,504899,7946,League of Conservation Voters,MTS1,MT,40702
+1,jon,tester,democrat,136005,126005,10000,Goldman Sachs,MTS1,MT,40702
+2,jon,tester,democrat,73083,73083,0,"Paul, Weiss et al",MTS1,MT,40702
+3,jon,tester,democrat,65750,65750,0,Votesane PAC,MTS1,MT,40702
+4,jon,tester,democrat,61821,61821,0,State of Montana,MTS1,MT,40702
+5,jon,tester,democrat,55910,45910,10000,Citigroup Inc,MTS1,MT,40702
+6,jon,tester,democrat,54450,54450,0,Simmons Hanly Conroy,MTS1,MT,40702
+7,jon,tester,democrat,52100,52100,0,Blackstone Group,MTS1,MT,40702
+8,jon,tester,democrat,51400,51400,0,"Robbins, Geller et al",MTS1,MT,40702
+9,jon,tester,democrat,50781,40781,10000,BNSF Railway,MTS1,MT,40702
+10,jon,tester,democrat,47913,37913,10000,Charter Communications,MTS1,MT,40702
+11,jon,tester,democrat,47400,0,47400,Democratic Senatorial Campaign Cmte,MTS1,MT,40702
+12,jon,tester,democrat,47400,0,47400,Democratic Senatorial Campaign Cmte,MTS1,MT,40702
+13,jon,tester,democrat,46637,36637,10000,MetLife Inc,MTS1,MT,40702
+14,jon,tester,democrat,45400,45400,0,Motley Rice LLC,MTS1,MT,40702
+15,jon,tester,democrat,44991,44991,0,Montana State University,MTS1,MT,40702
+16,jon,tester,democrat,44556,44556,0,University of Montana,MTS1,MT,40702
+17,jon,tester,democrat,41410,33910,7500,"Brownstein, Hyatt et al",MTS1,MT,40702
+18,jon,tester,democrat,41025,31025,10000,Capital Group Companies,MTS1,MT,40702
+19,jon,tester,democrat,40013,30013,10000,JPMorgan Chase & Co,MTS1,MT,40702
+20,jon,tester,democrat,37800,37800,0,Williams Kherkher,MTS1,MT,40702
+0,kirsten,gillibrand,democrat,203870,203870,0,"Davis, Polk & Wardwell",NYS1,NY,20735
+1,kirsten,gillibrand,democrat,160260,160260,0,"Boies, Schiller & Flexner",NYS1,NY,20735
+2,kirsten,gillibrand,democrat,129305,129305,0,"Paul, Weiss et al",NYS1,NY,20735
+3,kirsten,gillibrand,democrat,96208,93300,2908,"Akin, Gump et al",NYS1,NY,20735
+4,kirsten,gillibrand,democrat,80266,70266,10000,Corning Inc,NYS1,NY,20735
+5,kirsten,gillibrand,democrat,72950,72950,0,Sullivan & Cromwell,NYS1,NY,20735
+6,kirsten,gillibrand,democrat,70390,70385,5,Womencount PAC,NYS1,NY,20735
+7,kirsten,gillibrand,democrat,67635,67635,0,"Wachtell, Lipton et al",NYS1,NY,20735
+8,kirsten,gillibrand,democrat,58808,53808,5000,Pfizer Inc,NYS1,NY,20735
+9,kirsten,gillibrand,democrat,56365,56365,0,Kirkland & Ellis,NYS1,NY,20735
+10,kirsten,gillibrand,democrat,49747,39747,10000,Emily's List,NYS1,NY,20735
+11,kirsten,gillibrand,democrat,46350,46350,0,Blackstone Group,NYS1,NY,20735
+12,kirsten,gillibrand,democrat,42420,42420,0,"Willkie, Farr & Gallagher",NYS1,NY,20735
+13,kirsten,gillibrand,democrat,40980,35980,5000,Arnold & Porter Kaye Scholer,NYS1,NY,20735
+14,kirsten,gillibrand,democrat,40790,40790,0,Estee Lauder Companies,NYS1,NY,20735
+15,kirsten,gillibrand,democrat,40775,40775,0,"Quinn, Emanuel et al                    ",NYS1,NY,20735
+16,kirsten,gillibrand,democrat,40755,40755,0,Lazard Ltd,NYS1,NY,20735
+17,kirsten,gillibrand,democrat,38284,38284,0,"Gibson, Dunn & Crutcher",NYS1,NY,20735
+18,kirsten,gillibrand,democrat,37750,27750,10000,Marsh & McLennan,NYS1,NY,20735
+19,kirsten,gillibrand,democrat,37177,37177,0,"Simpson, Thacher & Bartlett",NYS1,NY,20735
+0,bob,casey,democrat,183487,183487,0,University of Pennsylvania,PAS2,PA,40703
+1,bob,casey,democrat,171051,163551,7500,Blank Rome LLP,PAS2,PA,40703
+2,bob,casey,democrat,139736,139736,0,"Kessler, Topaz et al",PAS2,PA,40703
+3,bob,casey,democrat,138184,138184,0,University of Pittsburgh Medical Center,PAS2,PA,40703
+4,bob,casey,democrat,121628,111628,10000,Comcast Corp,PAS2,PA,40703
+5,bob,casey,democrat,118035,108035,10000,Air Products & Chemicals Inc,PAS2,PA,40703
+6,bob,casey,democrat,117871,108871,9000,Exelon Corp,PAS2,PA,40703
+7,bob,casey,democrat,107735,97735,10000,Reed Smith LLP,PAS2,PA,40703
+8,bob,casey,democrat,106256,106256,0,University of Pittsburgh,PAS2,PA,40703
+9,bob,casey,democrat,89405,79405,10000,"Buchanan, Ingersoll & Rooney",PAS2,PA,40703
+10,bob,casey,democrat,75269,67273,7996,League of Conservation Voters,PAS2,PA,40703
+11,bob,casey,democrat,74540,74540,0,Ballard Spahr LLP,PAS2,PA,40703
+12,bob,casey,democrat,74030,64030,10000,Merck & Co,PAS2,PA,40703
+13,bob,casey,democrat,71450,63950,7500,Pride Mobility Products,PAS2,PA,40703
+14,bob,casey,democrat,67250,57250,10000,Cozen O'Connor,PAS2,PA,40703
+15,bob,casey,democrat,66500,57000,9500,Rite Aid Corp,PAS2,PA,40703
+16,bob,casey,democrat,62855,62855,0,"Edgar, Snyder & Assoc",PAS2,PA,40703
+17,bob,casey,democrat,61600,61600,0,Carlyle Group,PAS2,PA,40703
+18,bob,casey,democrat,60140,51140,9000,Duane Morris LLP,PAS2,PA,40703
+19,bob,casey,democrat,59775,59775,0,Berger & Montague,PAS2,PA,40703
+0,james,lankford,republican,167100,167100,0,Pro-Israel America PAC,OKS1,OK,21166
+1,james,lankford,republican,124500,124500,0,Votesane PAC,OKS1,OK,21166
+2,james,lankford,republican,48100,41600,6500,Williams Companies,OKS1,OK,21166
+3,james,lankford,republican,39950,34950,5000,NorPAC,OKS1,OK,21166
+4,james,lankford,republican,32700,25200,7500,Apollo Global Management,OKS1,OK,21166
+5,james,lankford,republican,27400,27400,0,American Pro-Israel PAC,OKS1,OK,21166
+6,james,lankford,republican,22400,14900,7500,Cox Enterprises                         ,OKS1,OK,21166
+7,james,lankford,republican,20000,20000,0,American Financial Group,OKS1,OK,21166
+8,james,lankford,republican,19200,19200,0,LHC Group,OKS1,OK,21166
+9,james,lankford,republican,19100,19100,0,"Paul, Weiss et al                       ",OKS1,OK,21166
+10,james,lankford,republican,18931,18931,0,Blackstone Group,OKS1,OK,21166
+11,james,lankford,republican,18672,16172,2500,Energy Transfer LP,OKS1,OK,21166
+12,james,lankford,republican,18175,16175,2000,Bancfirst,OKS1,OK,21166
+13,james,lankford,republican,17450,12450,5000,Continental Resources,OKS1,OK,21166
+14,james,lankford,republican,17400,17400,0,Winston & Strawn,OKS1,OK,21166
+15,james,lankford,republican,16000,0,16000,Blue Cross/Blue Shield,OKS1,OK,21166
+16,james,lankford,republican,14753,14753,0,Walter Oil & Gas,OKS1,OK,21166
+17,james,lankford,republican,13250,8250,5000,Canadian Pacific Railway,OKS1,OK,21166
+18,james,lankford,republican,13068,11600,1468,Susan B Anthony List,OKS1,OK,21166
+19,james,lankford,republican,13050,12050,1000,American Electric Power,OKS1,OK,21166
+0,ron,johnson,republican,61146,51146,10000,Senate Conservatives Fund,WIS2,WI,41111
+1,ron,johnson,republican,29200,29200,0,Abc Supply,WIS2,WI,41111
+2,ron,johnson,republican,29000,29000,0,Ashley Furniture,WIS2,WI,41111
+3,ron,johnson,republican,29000,29000,0,Rdv Corp,WIS2,WI,41111
+4,ron,johnson,republican,26567,26567,0,Archer Auto Group,WIS2,WI,41111
+5,ron,johnson,republican,25899,25899,0,Michels Corp,WIS2,WI,41111
+6,ron,johnson,republican,23200,23200,0,Klondike Cheese,WIS2,WI,41111
+7,ron,johnson,republican,22900,12900,10000,Rock Holdings,WIS2,WI,41111
+8,ron,johnson,republican,20550,20550,0,Uline Inc,WIS2,WI,41111
+9,ron,johnson,republican,18700,18700,0,Ortho Molecular Products,WIS2,WI,41111
+10,ron,johnson,republican,17600,17600,0,Bobby Cox Companies,WIS2,WI,41111
+11,ron,johnson,republican,17572,17572,0,Morgan Stanley,WIS2,WI,41111
+12,ron,johnson,republican,17400,17400,0,Red Apple Group,WIS2,WI,41111
+13,ron,johnson,republican,17400,17400,0,Hunt Companies,WIS2,WI,41111
+14,ron,johnson,republican,17399,17399,0,KSL Capital Partners,WIS2,WI,41111
+15,ron,johnson,republican,17000,17000,0,Central Oregon Community College,WIS2,WI,41111
+16,ron,johnson,republican,17000,17000,0,Rts Inc,WIS2,WI,41111
+17,ron,johnson,republican,17000,17000,0,Hendricks Holding Co,WIS2,WI,41111
+18,ron,johnson,republican,16249,16249,0,Se,WIS2,WI,41111
+19,ron,johnson,republican,15945,15945,0,Advocate Aurora Health,WIS2,WI,41111
+0,mitt,romney,republican,89100,89100,0,Bain Capital,UTS1,UT,41902
+1,mitt,romney,republican,48600,48600,0,Gardner Co,UTS1,UT,41902
+2,mitt,romney,republican,41100,41100,0,Blackstone Group,UTS1,UT,41902
+3,mitt,romney,republican,38800,38800,0,AQR Capital Management,UTS1,UT,41902
+4,mitt,romney,republican,32400,32400,0,Sinclair Companies,UTS1,UT,41902
+5,mitt,romney,republican,28000,28000,0,Credit Suisse Group,UTS1,UT,41902
+6,mitt,romney,republican,27000,27000,0,Summit Partners,UTS1,UT,41902
+7,mitt,romney,republican,27000,27000,0,Vivint Smart Home,UTS1,UT,41902
+8,mitt,romney,republican,24550,24550,0,Goldman Sachs,UTS1,UT,41902
+9,mitt,romney,republican,24550,24550,0,Zions Bancorp,UTS1,UT,41902
+10,mitt,romney,republican,24300,24300,0,Huntsman Corp,UTS1,UT,41902
+11,mitt,romney,republican,24300,24300,0,Sun Capital Partners,UTS1,UT,41902
+12,mitt,romney,republican,24300,24300,0,TPG Capital,UTS1,UT,41902
+13,mitt,romney,republican,23650,23650,0,Fidelity Investments,UTS1,UT,41902
+14,mitt,romney,republican,16450,16450,0,Intermountain Health Care                         ,UTS1,UT,41902
+15,mitt,romney,republican,16200,16200,0,4Life Research,UTS1,UT,41902
+16,mitt,romney,republican,16200,16200,0,Acosta Sales & Marketing,UTS1,UT,41902
+17,mitt,romney,republican,16200,16200,0,Belkin International,UTS1,UT,41902
+18,mitt,romney,republican,16200,16200,0,Brady Industries,UTS1,UT,41902
+19,mitt,romney,republican,16200,16200,0,CR England Inc,UTS1,UT,41902
+20,mitt,romney,republican,16200,16200,0,Harbour Group Industries,UTS1,UT,41902
+21,mitt,romney,republican,16200,16200,0,Keller Investment Properties,UTS1,UT,41902
+22,mitt,romney,republican,16200,16200,0,Larry H Miller Group,UTS1,UT,41902
+23,mitt,romney,republican,16200,16200,0,Marriott International,UTS1,UT,41902
+24,mitt,romney,republican,16200,16200,0,MRIoA,UTS1,UT,41902
+25,mitt,romney,republican,16200,16200,0,Nierenberg Investment Management,UTS1,UT,41902
+26,mitt,romney,republican,16200,16200,0,SCF Partners,UTS1,UT,41902
+27,mitt,romney,republican,16200,16200,0,Stewart & Stevenson,UTS1,UT,41902
+28,mitt,romney,republican,16200,16200,0,Thackeray Co,UTS1,UT,41902
+29,mitt,romney,republican,16200,16200,0,WSJ Properties,UTS1,UT,41902
+20,josh,hawley,republican,299301,299301,0,Club for Growth,MOS2,MO,41901
+21,josh,hawley,republican,247189,247189,0,Senate Conservatives Fund,MOS2,MO,41901
+22,josh,hawley,republican,47400,0,47400,National Republican Senatorial Cmte,MOS2,MO,41901
+23,josh,hawley,republican,46900,36900,10000,Emerson Electric,MOS2,MO,41901
+24,josh,hawley,republican,44800,39800,5000,Herzog Contracting,MOS2,MO,41901
+25,josh,hawley,republican,43200,43200,0,Diamond Pet Foods,MOS2,MO,41901
+26,josh,hawley,republican,33466,23466,10000,Alliance Coal,MOS2,MO,41901
+27,josh,hawley,republican,29928,29928,0,Kirkland & Ellis,MOS2,MO,41901
+28,josh,hawley,republican,26000,16000,10000,Leggett & Platt,MOS2,MO,41901
+29,josh,hawley,republican,25600,25600,0,Durham Co,MOS2,MO,41901
+30,josh,hawley,republican,23594,22394,1200,Susan B Anthony List,MOS2,MO,41901
+31,josh,hawley,republican,23500,23500,0,Herschend Family Entertainment,MOS2,MO,41901
+32,josh,hawley,republican,21600,21600,0,Hunter Engineering,MOS2,MO,41901
+33,josh,hawley,republican,21600,21600,0,Immvac Inc                                        ,MOS2,MO,41901
+34,josh,hawley,republican,21600,21600,0,Jennmar Corp,MOS2,MO,41901
+35,josh,hawley,republican,21600,21600,0,Willard Asphalt Paving,MOS2,MO,41901
+36,josh,hawley,republican,20250,20250,0,Ascension Health,MOS2,MO,41901
+37,josh,hawley,republican,19625,9625,10000,Republican Jewish Coalition,MOS2,MO,41901
+38,josh,hawley,republican,19600,19600,0,Express Scripts,MOS2,MO,41901
+39,josh,hawley,republican,18900,18900,0,Dot Foods,MOS2,MO,41901
+40,josh,hawley,republican,18900,18900,0,Jes Holdings LLC,MOS2,MO,41901
+0,steven,daines,republican,295841,285841,10000,Senate Conservatives Fund,MTS2,MT,21338
+1,steven,daines,republican,109971,109971,0,Club for Growth,MTS2,MT,21338
+2,steven,daines,republican,64102,64102,0,Langlas & Assoc,MTS2,MT,21338
+3,steven,daines,republican,62625,57225,5400,Susan B Anthony List,MTS2,MT,21338
+4,steven,daines,republican,62058,52849,9209,Republican Jewish Coalition,MTS2,MT,21338
+5,steven,daines,republican,53733,53733,0,Blackstone Group                        ,MTS2,MT,21338
+6,steven,daines,republican,52499,43499,9000,Procter & Gamble,MTS2,MT,21338
+7,steven,daines,republican,51124,41124,10000,Charter Communications,MTS2,MT,21338
+8,steven,daines,republican,40770,40770,0,NorPAC,MTS2,MT,21338
+9,steven,daines,republican,39200,39200,0,Saulsbury Industries,MTS2,MT,21338
+10,steven,daines,republican,38750,38750,0,GBX Group,MTS2,MT,21338
+11,steven,daines,republican,36736,24736,12000,Wells Fargo,MTS2,MT,21338
+12,steven,daines,republican,33500,33500,0,Elliott Management,MTS2,MT,21338
+13,steven,daines,republican,33399,23399,10000,NextEra Energy,MTS2,MT,21338
+14,steven,daines,republican,32445,32445,0,Barnard Construction,MTS2,MT,21338
+15,steven,daines,republican,29225,19225,10000,Goldman Sachs,MTS2,MT,21338
+16,steven,daines,republican,29000,22000,7000,Rock Holdings,MTS2,MT,21338
+17,steven,daines,republican,28075,28075,0,Ignition Partners,MTS2,MT,21338
+18,steven,daines,republican,28000,28000,0,Steelhead Partners,MTS2,MT,21338
+19,steven,daines,republican,28000,28000,0,Sequoia Capital,MTS2,MT,21338
+0,jeff,merkley,democrat,54347,49252,5095,League of Conservation Voters,ORS1,OR,40908
+1,jeff,merkley,democrat,33922,33922,0,Oregon Health & Science University,ORS1,OR,40908
+2,jeff,merkley,democrat,31085,31085,0,State of Oregon,ORS1,OR,40908
+3,jeff,merkley,democrat,21692,21692,0,Oregon State University,ORS1,OR,40908
+4,jeff,merkley,democrat,20035,10035,10000,Service Employees International Union,ORS1,OR,40908
+5,jeff,merkley,democrat,19173,19173,0,University of Oregon,ORS1,OR,40908
+6,jeff,merkley,democrat,16800,16800,0,"Kleiner, Perkins et al",ORS1,OR,40908
+7,jeff,merkley,democrat,16113,16113,0,Intel Corp,ORS1,OR,40908
+8,jeff,merkley,democrat,11374,11374,0,Comcast Corp,ORS1,OR,40908
+9,jeff,merkley,democrat,11200,11200,0,Blue Basin Beef,ORS1,OR,40908
+10,jeff,merkley,democrat,11200,11200,0,Bad Robot Productions,ORS1,OR,40908
+11,jeff,merkley,democrat,11200,11200,0,Klein Financial,ORS1,OR,40908
+12,jeff,merkley,democrat,11200,11200,0,Moga Investments,ORS1,OR,40908
+13,jeff,merkley,democrat,11200,11200,0,"Draper, Fisher & Jurvetson",ORS1,OR,40908
+14,jeff,merkley,democrat,11200,11200,0,Teaching Strategies Inc,ORS1,OR,40908
+15,jeff,merkley,democrat,11200,11200,0,United Group,ORS1,OR,40908
+16,jeff,merkley,democrat,11150,11150,0,Kaiser Permanente,ORS1,OR,40908
+17,jeff,merkley,democrat,11099,1099,10000,National Education Assn,ORS1,OR,40908
+18,jeff,merkley,democrat,10985,985,10000,American Federation of State/Cnty/Munic Employees,ORS1,OR,40908
+19,jeff,merkley,democrat,10160,160,10000,National Assn of Letter Carriers,ORS1,OR,40908
+0,tammy,baldwin,democrat,214348,204642,9706,JStreetPAC,WIS1,WI,29940
+1,tammy,baldwin,democrat,209140,209140,0,University of Wisconsin,WIS1,WI,29940
+2,tammy,baldwin,democrat,183849,183849,0,Democracy Engine,WIS1,WI,29940
+3,tammy,baldwin,democrat,159961,159961,0,University of Wisconsin/Madison,WIS1,WI,29940
+4,tammy,baldwin,democrat,93896,85683,8213,League of Conservation Voters,WIS1,WI,29940
+5,tammy,baldwin,democrat,89659,89634,25,Womencount PAC,WIS1,WI,29940
+6,tammy,baldwin,democrat,85141,80141,5000,Emily's List,WIS1,WI,29940
+7,tammy,baldwin,democrat,73925,73925,0,"Paul, Weiss et al",WIS1,WI,29940
+8,tammy,baldwin,democrat,56193,56193,0,Marshfield Clinic,WIS1,WI,29940
+9,tammy,baldwin,democrat,54121,54121,0,State of Wisconsin,WIS1,WI,29940
+10,tammy,baldwin,democrat,47508,42508,5000,"Michael, Best & Friedrich",WIS1,WI,29940
+11,tammy,baldwin,democrat,45320,45320,0,Medical College of Wisconsin,WIS1,WI,29940
+12,tammy,baldwin,democrat,41818,31318,10500,Foley & Lardner,WIS1,WI,29940
+13,tammy,baldwin,democrat,38950,38950,0,Congaree River LP,WIS1,WI,29940
+14,tammy,baldwin,democrat,36566,36566,0,"Habush, Habush & Rottier",WIS1,WI,29940
+15,tammy,baldwin,democrat,34570,34570,0,Epic Systems,WIS1,WI,29940
+16,tammy,baldwin,democrat,30295,30295,0,University of Wisconsin/Milwaukee                 ,WIS1,WI,29940
+17,tammy,baldwin,democrat,29829,19829,10000,Northwestern Mutual Life Insurance,WIS1,WI,29940
+18,tammy,baldwin,democrat,28833,28833,0,Uw Health,WIS1,WI,29940
+19,tammy,baldwin,democrat,28161,18161,10000,Google Inc,WIS1,WI,29940
+0,mike,lee,republican,133365,128365,5000,Club for Growth,UTS2,UT,41110
+1,mike,lee,republican,94073,79073,15000,Senate Conservatives Fund,UTS2,UT,41110
+2,mike,lee,republican,61910,61910,0,Democracy Engine,UTS2,UT,41110
+3,mike,lee,republican,44900,35900,9000,Microsoft Corp,UTS2,UT,41110
+4,mike,lee,republican,43250,33250,10000,Apollo Global Management,UTS2,UT,41110
+5,mike,lee,republican,28500,13500,15000,Comcast Corp,UTS2,UT,41110
+6,mike,lee,republican,25762,15762,10000,Sidley Austin LLP,UTS2,UT,41110
+7,mike,lee,republican,25300,20300,5000,Herzog,UTS2,UT,41110
+8,mike,lee,republican,21450,16450,5000,"Brownstein, Hyatt et al",UTS2,UT,41110
+9,mike,lee,republican,20400,20400,0,Blackstone Group,UTS2,UT,41110
+10,mike,lee,republican,20300,20300,0,Red Apple Group,UTS2,UT,41110
+11,mike,lee,republican,19900,19900,0,Spencer Enterprises,UTS2,UT,41110
+12,mike,lee,republican,18962,18962,0,Perry Homes,UTS2,UT,41110
+13,mike,lee,republican,18600,8600,10000,HF Sinclair Corp,UTS2,UT,41110
+14,mike,lee,republican,18422,15922,2500,Energy Transfer LP,UTS2,UT,41110
+15,mike,lee,republican,17400,17400,0,Colmena Group,UTS2,UT,41110
+16,mike,lee,republican,17400,17400,0,4life Research,UTS2,UT,41110
+17,mike,lee,republican,17400,17400,0,Poulton Assoc,UTS2,UT,41110
+18,mike,lee,republican,17400,17400,0,Reagan Outdoor Advertising,UTS2,UT,41110
+19,mike,lee,republican,17400,17400,0,Peloton,UTS2,UT,41110
+0,roger,wicker,republican,43200,43200,0,BGR Group,MSS2,MS,29534
+1,roger,wicker,republican,40000,30000,10000,BNSF Railway,MSS2,MS,29534
+2,roger,wicker,republican,38500,38500,0,Fresenius Medical Care,MSS2,MS,29534
+3,roger,wicker,republican,32350,22350,10000,National Assn of Broadcasters,MSS2,MS,29534
+4,roger,wicker,republican,32000,27000,5000,Telapex Inc,MSS2,MS,29534
+5,roger,wicker,republican,30220,30220,0,NorPAC,MSS2,MS,29534
+6,roger,wicker,republican,29800,25800,4000,Charter Communications,MSS2,MS,29534
+7,roger,wicker,republican,29100,19100,10000,General Atomics,MSS2,MS,29534
+8,roger,wicker,republican,24900,14900,10000,Huntington Ingalls Industries,MSS2,MS,29534
+9,roger,wicker,republican,24200,14200,10000,Comcast Corp,MSS2,MS,29534
+10,roger,wicker,republican,24100,14100,10000,Genesee & Wyoming,MSS2,MS,29534
+11,roger,wicker,republican,24100,24100,0,Novogradac & Co,MSS2,MS,29534
+12,roger,wicker,republican,23750,13750,10000,Cox Enterprises,MSS2,MS,29534
+13,roger,wicker,republican,23600,23600,0,Dunlap & Kyle,MSS2,MS,29534
+14,roger,wicker,republican,23500,14300,9200,DISH Network,MSS2,MS,29534
+15,roger,wicker,republican,22900,22900,0,Sanderson Farms,MSS2,MS,29534
+16,roger,wicker,republican,22100,22100,0,Seemann Composites,MSS2,MS,29534
+17,roger,wicker,republican,21600,21600,0,Ergon Inc,MSS2,MS,29534
+18,roger,wicker,republican,21600,21600,0,Pruet Oil,MSS2,MS,29534
+19,roger,wicker,republican,21600,21600,0,Rumsfeld Foundation,MSS2,MS,29534
+0,ben,sasse,republican,49801,49801,0,Club for Growth,NES2,NE,41503
+1,ben,sasse,republican,41400,36400,5000,DCI Group,NES2,NE,41503
+2,ben,sasse,republican,29300,29300,0,NorPAC,NES2,NE,41503
+3,ben,sasse,republican,22200,22200,0,Mountain Group Partners,NES2,NE,41503
+4,ben,sasse,republican,21600,21600,0,Stephens Group,NES2,NE,41503
+5,ben,sasse,republican,20420,9420,11000,Microsoft Corp,NES2,NE,41503
+6,ben,sasse,republican,19600,19600,0,Rdv Corp,NES2,NE,41503
+7,ben,sasse,republican,19500,14000,5500,Prudential Financial,NES2,NE,41503
+8,ben,sasse,republican,18725,14225,4500,Alphabet Inc,NES2,NE,41503
+9,ben,sasse,republican,18000,18000,0,Capital Group,NES2,NE,41503
+10,ben,sasse,republican,17800,17800,0,Affiliated Managers Group               ,NES2,NE,41503
+11,ben,sasse,republican,16800,16800,0,Blackstone Group,NES2,NE,41503
+12,ben,sasse,republican,16000,11000,5000,Capital Group Companies,NES2,NE,41503
+13,ben,sasse,republican,15855,5855,10000,Union Pacific Corp,NES2,NE,41503
+14,ben,sasse,republican,15000,5000,10000,GEO Group,NES2,NE,41503
+15,ben,sasse,republican,14000,14000,0,Centene Corp                            ,NES2,NE,41503
+16,ben,sasse,republican,13000,3000,10000,National Assn of Broadcasters,NES2,NE,41503
+17,ben,sasse,republican,12750,5250,7500,Zurich Insurance Group,NES2,NE,41503
+18,ben,sasse,republican,12200,12200,0,Centerview Partners,NES2,NE,41503
+19,ben,sasse,republican,12200,12200,0,Kiewit Corp,NES2,NE,41503
+0,john,cornyn,republican,138850,133850,5000,Apollo Global Management,TXS1,TX,40305
+1,john,cornyn,republican,98615,95115,3500,KKR & Co                                ,TXS1,TX,40305
+2,john,cornyn,republican,58930,58930,0,Blackstone Group                        ,TXS1,TX,40305
+3,john,cornyn,republican,56491,51491,5000,Berkshire Hathaway,TXS1,TX,40305
+4,john,cornyn,republican,50781,44781,6000,United Airlines Holdings,TXS1,TX,40305
+5,john,cornyn,republican,45535,28535,17000,Pfizer Inc,TXS1,TX,40305
+6,john,cornyn,republican,43551,43551,0,State of Texas,TXS1,TX,40305
+7,john,cornyn,republican,42530,42530,0,SoftBank Corp,TXS1,TX,40305
+8,john,cornyn,republican,34900,34900,0,"Paul, Weiss et al",TXS1,TX,40305
+9,john,cornyn,republican,34876,24876,10000,NextEra Energy,TXS1,TX,40305
+10,john,cornyn,republican,34600,34600,0,Citizens for Prosperity in America Today,TXS1,TX,40305
+11,john,cornyn,republican,33600,33600,0,Duty Free Americas,TXS1,TX,40305
+12,john,cornyn,republican,33600,28600,5000,GEO Group,TXS1,TX,40305
+13,john,cornyn,republican,33550,23550,10000,General Atomics,TXS1,TX,40305
+14,john,cornyn,republican,31875,21875,10000,FMR Corp,TXS1,TX,40305
+15,john,cornyn,republican,29560,21060,8500,Visa Inc,TXS1,TX,40305
+16,john,cornyn,republican,29175,29175,0,Insperity,TXS1,TX,40305
+17,john,cornyn,republican,28830,18830,10000,DISH Network,TXS1,TX,40305
+18,john,cornyn,republican,27885,17885,10000,JPMorgan Chase & Co,TXS1,TX,40305
+19,john,cornyn,republican,27862,21112,6750,"Akin, Gump et al",TXS1,TX,40305
+0,john,kennedy,republican,32700,32700,0,Apollo Global Management,LAS2,LA,41703
+1,john,kennedy,republican,31105,31105,0,Ochsner Health System,LAS2,LA,41703
+2,john,kennedy,republican,29005,29005,0,Blackstone Group,LAS2,LA,41703
+3,john,kennedy,republican,27700,24700,3000,Stephens Inc,LAS2,LA,41703
+4,john,kennedy,republican,20300,20300,0,Energy Transfer LP,LAS2,LA,41703
+5,john,kennedy,republican,17500,17500,0,Investment Property Exchange Services,LAS2,LA,41703
+6,john,kennedy,republican,17400,17400,0,Investments Ltd,LAS2,LA,41703
+7,john,kennedy,republican,17400,17400,0,Reliance Systems,LAS2,LA,41703
+8,john,kennedy,republican,17400,17400,0,Blue Owl Capital,LAS2,LA,41703
+9,john,kennedy,republican,17400,17400,0,CaptiveAire Systems,LAS2,LA,41703
+10,john,kennedy,republican,17150,17150,0,Hydrologic Distribution Co,LAS2,LA,41703
+11,john,kennedy,republican,16733,16733,0,Station Casinos,LAS2,LA,41703
+12,john,kennedy,republican,15800,5800,10000,Chevron Corp,LAS2,LA,41703
+13,john,kennedy,republican,15600,15600,0,Southern Glazer's Wine & Spirits                  ,LAS2,LA,41703
+14,john,kennedy,republican,15000,15000,0,Sargento Foods,LAS2,LA,41703
+15,john,kennedy,republican,14753,14753,0,Walter Oil & Gas,LAS2,LA,41703
+16,john,kennedy,republican,14700,14700,0,Hill & Co,LAS2,LA,41703
+17,john,kennedy,republican,14500,14500,0,Bobby Cox Companies,LAS2,LA,41703
+18,john,kennedy,republican,14105,14105,0,B&G Food Enterprises,LAS2,LA,41703
+19,john,kennedy,republican,13800,6800,7000,Blessey Marine Service,LAS2,LA,41703
+0,cindy,hyde-smith,republican,36300,36300,0,Seemann Composites,MSS1,MS,41707
+1,cindy,hyde-smith,republican,24320,24320,0,NorPAC,MSS1,MS,41707
+2,cindy,hyde-smith,republican,24180,19180,5000,Telapex Inc,MSS1,MS,41707
+3,cindy,hyde-smith,republican,22100,22100,0,Addicus,MSS1,MS,41707
+4,cindy,hyde-smith,republican,19400,19400,0,Ergon Inc,MSS1,MS,41707
+5,cindy,hyde-smith,republican,18778,13778,5000,Huntington Ingalls Industries,MSS1,MS,41707
+6,cindy,hyde-smith,republican,16800,16800,0,Pruet Oil,MSS1,MS,41707
+7,cindy,hyde-smith,republican,16800,16800,0,Yates Construction,MSS1,MS,41707
+8,cindy,hyde-smith,republican,16400,16400,0,Sanderson Farms,MSS1,MS,41707
+9,cindy,hyde-smith,republican,15500,10500,5000,Community Bancshares of Mississippi,MSS1,MS,41707
+10,cindy,hyde-smith,republican,14000,9000,5000,Leidos Inc,MSS1,MS,41707
+11,cindy,hyde-smith,republican,14000,14000,0,Golding barge line,MSS1,MS,41707
+12,cindy,hyde-smith,republican,13500,13500,0,Capitol Resources,MSS1,MS,41707
+13,cindy,hyde-smith,republican,13175,5675,7500,General Atomics,MSS1,MS,41707
+14,cindy,hyde-smith,republican,13100,8100,5000,Freeport-McMoRan,MSS1,MS,41707
+15,cindy,hyde-smith,republican,12000,2000,10000,Butler Snow LLP,MSS1,MS,41707
+16,cindy,hyde-smith,republican,11600,11600,0,Wade Inc,MSS1,MS,41707
+17,cindy,hyde-smith,republican,11500,9000,2500,"Akin, Gump et al",MSS1,MS,41707
+18,cindy,hyde-smith,republican,11200,11200,0,Amway/Alticor Inc,MSS1,MS,41707
+19,cindy,hyde-smith,republican,11200,11200,0,G&S Holdings,MSS1,MS,41707
+0,deb,fischer,republican,79850,70850,9000,Union Pacific Corp,NES1,NE,41302
+1,deb,fischer,republican,41150,31150,10000,Northrop Grumman,NES1,NE,41302
+2,deb,fischer,republican,37300,27300,10000,AFLAC Inc,NES1,NE,41302
+3,deb,fischer,republican,31300,23800,7500,Delta Air Lines,NES1,NE,41302
+4,deb,fischer,republican,28850,16350,12500,Comcast Corp,NES1,NE,41302
+5,deb,fischer,republican,28650,20650,8000,BNSF Railway,NES1,NE,41302
+6,deb,fischer,republican,27000,17000,10000,Cox Enterprises,NES1,NE,41302
+7,deb,fischer,republican,26950,19950,7000,Matson Inc,NES1,NE,41302
+8,deb,fischer,republican,22600,22600,0,Elliott Management,NES1,NE,41302
+9,deb,fischer,republican,20650,20650,0,NorPAC,NES1,NE,41302
+10,deb,fischer,republican,20400,10400,10000,Tenaska Inc,NES1,NE,41302
+11,deb,fischer,republican,20000,20000,0,Sinclair Broadcast Group,NES1,NE,41302
+12,deb,fischer,republican,19700,19700,0,Dinkel Implement,NES1,NE,41302
+13,deb,fischer,republican,18100,10800,7300,DISH Network,NES1,NE,41302
+14,deb,fischer,republican,17700,7700,10000,Case New Holland,NES1,NE,41302
+15,deb,fischer,republican,17250,4750,12500,"Brownstein, Hyatt et al",NES1,NE,41302
+16,deb,fischer,republican,16200,16200,0,"Hagan, Noll & Boyle",NES1,NE,41302
+17,deb,fischer,republican,16200,16200,0,Hawkins Construction,NES1,NE,41302
+18,deb,fischer,republican,16200,16200,0,Jane Street Capital,NES1,NE,41302
+19,deb,fischer,republican,16200,16200,0,Peter Kiewit Sons,NES1,NE,41302
+0,ted,cruz,republican,268388,268388,0,Senate Conservatives Fund,TXS2,TX,41304
+1,ted,cruz,republican,234832,234832,0,Club for Growth,TXS2,TX,41304
+2,ted,cruz,republican,108101,108101,0,Woodforest National Bank,TXS2,TX,41304
+3,ted,cruz,republican,95950,95950,0,NorPAC,TXS2,TX,41304
+4,ted,cruz,republican,67051,57051,10000,Lockheed Martin,TXS2,TX,41304
+5,ted,cruz,republican,64200,64200,0,Sullivan & Cromwell,TXS2,TX,41304
+6,ted,cruz,republican,56115,56115,0,Stewart Title Guaranty,TXS2,TX,41304
+7,ted,cruz,republican,47629,37629,10000,Delta Air Lines,TXS2,TX,41304
+8,ted,cruz,republican,46100,41100,5000,Goldman Sachs,TXS2,TX,41304
+9,ted,cruz,republican,45872,35872,10000,BNSF Railway,TXS2,TX,41304
+10,ted,cruz,republican,42750,42750,0,Pbf Energy,TXS2,TX,41304
+11,ted,cruz,republican,42474,32474,10000,Republican Jewish Coalition,TXS2,TX,41304
+12,ted,cruz,republican,42400,37402,4998,Southwest Airlines,TXS2,TX,41304
+13,ted,cruz,republican,42225,42225,0,Insperity,TXS2,TX,41304
+14,ted,cruz,republican,41300,41300,0,"Gibson, Dunn & Crutcher",TXS2,TX,41304
+15,ted,cruz,republican,39000,36500,2500,Greenberg Traurig LLP,TXS2,TX,41304
+16,ted,cruz,republican,37800,37800,0,Duty Free Americas,TXS2,TX,41304
+17,ted,cruz,republican,37100,37100,0,Taste of Texas Restaurant,TXS2,TX,41304
+18,ted,cruz,republican,36638,26638,10000,USAA,TXS2,TX,41304
+19,ted,cruz,republican,35848,26848,9000,American Airlines,TXS2,TX,41304
+0,bill,cassidy,republican,60240,60240,0,Ochsner Health System,LAS1,LA,20919
+1,bill,cassidy,republican,59200,59200,0,NorPAC,LAS1,LA,20919
+2,bill,cassidy,republican,57645,44645,13000,KKR & Co,LAS1,LA,20919
+3,bill,cassidy,republican,49600,49600,0,Neurological Surgery Pc,LAS1,LA,20919
+4,bill,cassidy,republican,42300,42300,0,McNa Dental Plans,LAS1,LA,20919
+5,bill,cassidy,republican,39200,37200,2000,Berkshire Hathaway,LAS1,LA,20919
+6,bill,cassidy,republican,30650,30650,0,Acadian Companies,LAS1,LA,20919
+7,bill,cassidy,republican,28650,18650,10000,Citizens for Prosperity in America Today,LAS1,LA,20919
+8,bill,cassidy,republican,23400,23400,0,Southern Brain & Spine,LAS1,LA,20919
+9,bill,cassidy,republican,21075,16075,5000,Amedisys Inc,LAS1,LA,20919
+10,bill,cassidy,republican,20025,19025,1000,Jones Walker LLP,LAS1,LA,20919
+11,bill,cassidy,republican,19625,19625,0,Metro Aviation Inc,LAS1,LA,20919
+12,bill,cassidy,republican,19600,19600,0,Sixty West                                        ,LAS1,LA,20919
+13,bill,cassidy,republican,19200,8700,10500,No Labels,LAS1,LA,20919
+14,bill,cassidy,republican,18700,18700,0,Ray Brandt Auto Group                             ,LAS1,LA,20919
+15,bill,cassidy,republican,18300,13300,5000,Murphy Oil,LAS1,LA,20919
+16,bill,cassidy,republican,17590,17090,500,Entergy Corp,LAS1,LA,20919
+17,bill,cassidy,republican,17150,8650,8500,Centene Corp                            ,LAS1,LA,20919
+18,bill,cassidy,republican,17075,17075,0,Viemed,LAS1,LA,20919
+19,bill,cassidy,republican,16900,11900,5000,Blessey Marine Service,LAS1,LA,20919
+0,tim,kaine,democrat,182467,173557,8910,JStreetPAC,VAS1,VA,41305
+1,tim,kaine,democrat,134150,134150,0,Covington & Burling,VAS1,VA,41305
+2,tim,kaine,democrat,69352,63852,5500,"Akin, Gump et al",VAS1,VA,41305
+3,tim,kaine,democrat,69220,59220,10000,Huntington Ingalls Industries,VAS1,VA,41305
+4,tim,kaine,democrat,65338,57305,8033,League of Conservation Voters,VAS1,VA,41305
+5,tim,kaine,democrat,61051,51051,10000,Altria Group,VAS1,VA,41305
+6,tim,kaine,democrat,59000,59000,0,Golden Gate Capital,VAS1,VA,41305
+7,tim,kaine,democrat,58700,48700,10000,Centene Corp,VAS1,VA,41305
+8,tim,kaine,democrat,57215,52215,5000,McGuireWoods LLP,VAS1,VA,41305
+9,tim,kaine,democrat,54125,54125,0,Wiley Rein LLP,VAS1,VA,41305
+10,tim,kaine,democrat,53254,53254,0,University of Virginia,VAS1,VA,41305
+11,tim,kaine,democrat,51576,51576,0,Hunton Andrews Kurth LLP,VAS1,VA,41305
+12,tim,kaine,democrat,49218,45218,4000,Hogan Lovells,VAS1,VA,41305
+13,tim,kaine,democrat,48779,38779,10000,Northrop Grumman,VAS1,VA,41305
+14,tim,kaine,democrat,45650,45650,0,Bloomberg Lp,VAS1,VA,41305
+15,tim,kaine,democrat,45420,35420,10000,DLA Piper,VAS1,VA,41305
+16,tim,kaine,democrat,43300,43300,0,Grant & Eisenhofer,VAS1,VA,41305
+17,tim,kaine,democrat,42676,33676,9000,Genworth Financial,VAS1,VA,41305
+18,tim,kaine,democrat,41600,41600,0,Sullivan & Cromwell,VAS1,VA,41305
+19,tim,kaine,democrat,41024,35524,5500,Holland & Knight,VAS1,VA,41305
+0,sherrod,brown,democrat,229447,229447,0,Ohio State University,OHS1,OH,29389
+1,sherrod,brown,democrat,199524,189525,9999,League of Conservation Voters,OHS1,OH,29389
+2,sherrod,brown,democrat,178872,169166,9706,JStreetPAC,OHS1,OH,29389
+3,sherrod,brown,democrat,117526,117526,0,Votesane PAC,OHS1,OH,29389
+4,sherrod,brown,democrat,101744,101744,0,Cleveland Clinic,OHS1,OH,29389
+5,sherrod,brown,democrat,99841,99841,0,Case Western Reserve University,OHS1,OH,29389
+6,sherrod,brown,democrat,69949,59949,10000,Baker & Hostetler,OHS1,OH,29389
+7,sherrod,brown,democrat,66561,61561,5000,Thompson Hine LLP,OHS1,OH,29389
+8,sherrod,brown,democrat,64496,64496,0,Jones Day,OHS1,OH,29389
+9,sherrod,brown,democrat,64268,64268,0,"Kohrman, Jackson & Krantz",OHS1,OH,29389
+10,sherrod,brown,democrat,57173,57173,0,Oberlin College,OHS1,OH,29389
+11,sherrod,brown,democrat,49190,39190,10000,Nationwide,OHS1,OH,29389
+12,sherrod,brown,democrat,49152,43152,6000,Squire Patton Boggs,OHS1,OH,29389
+13,sherrod,brown,democrat,48791,39291,9500,"Vorys, Sater et al",OHS1,OH,29389
+14,sherrod,brown,democrat,47535,47535,0,University of Cincinnati,OHS1,OH,29389
+15,sherrod,brown,democrat,46966,45066,1900,AK Steel,OHS1,OH,29389
+16,sherrod,brown,democrat,45919,45919,0,Cincinnati Children's Hospital Medical Center,OHS1,OH,29389
+17,sherrod,brown,democrat,45287,45287,0,Nationwide Children's Hospital,OHS1,OH,29389
+18,sherrod,brown,democrat,44948,34948,10000,Procter & Gamble,OHS1,OH,29389
+19,sherrod,brown,democrat,39420,29420,10000,Prudential Financial,OHS1,OH,29389
+0,amy,klobuchar,democrat,65135,60385,4750,Dorsey & Whitney,MNS2,MN,40700
+1,amy,klobuchar,democrat,60314,50314,10000,Delta Air Lines,MNS2,MN,40700
+2,amy,klobuchar,democrat,53875,41375,12500,Cargill Inc,MNS2,MN,40700
+3,amy,klobuchar,democrat,53075,44075,9000,General Mills,MNS2,MN,40700
+4,amy,klobuchar,democrat,49630,39630,10000,Land O'Lakes,MNS2,MN,40700
+5,amy,klobuchar,democrat,48758,48758,0,University of Minnesota,MNS2,MN,40700
+6,amy,klobuchar,democrat,46006,36506,9500,Target Corp,MNS2,MN,40700
+7,amy,klobuchar,democrat,44156,44150,6,Womencount PAC,MNS2,MN,40700
+8,amy,klobuchar,democrat,43400,33400,10000,Morgan Stanley,MNS2,MN,40700
+9,amy,klobuchar,democrat,40090,30090,10000,Xcel Energy,MNS2,MN,40700
+10,amy,klobuchar,democrat,38781,33781,5000,Walt Disney Co                          ,MNS2,MN,40700
+11,amy,klobuchar,democrat,38645,28645,10000,US Bancorp,MNS2,MN,40700
+12,amy,klobuchar,democrat,38500,30400,8100,Robins Kaplan LLP,MNS2,MN,40700
+13,amy,klobuchar,democrat,36005,26005,10000,Medtronic Inc,MNS2,MN,40700
+14,amy,klobuchar,democrat,35970,25970,10000,Microsoft Corp,MNS2,MN,40700
+15,amy,klobuchar,democrat,34765,34765,0,"Wachtell, Lipton et al",MNS2,MN,40700
+16,amy,klobuchar,democrat,32398,22400,9998,Lockridge Grindal Nauen PLLP,MNS2,MN,40700
+17,amy,klobuchar,democrat,32325,24825,7500,Ecolab Inc,MNS2,MN,40700
+18,amy,klobuchar,democrat,28500,20600,7900,Yelp Inc,MNS2,MN,40700
+19,amy,klobuchar,democrat,28300,20800,7500,Unitedhealth Group,MNS2,MN,40700
+20,tommy,tuberville,republican,67896,67896,0,Club for Growth,ALS1,AL,42102
+21,tommy,tuberville,republican,64900,64900,0,Hometown Lenders,ALS1,AL,42102
+22,tommy,tuberville,republican,38900,28900,10000,Drummond Co,ALS1,AL,42102
+23,tommy,tuberville,republican,30500,30500,0,Wellborn Cabinet                                  ,ALS1,AL,42102
+24,tommy,tuberville,republican,25110,25110,0,Collazo Enterprises,ALS1,AL,42102
+25,tommy,tuberville,republican,23900,23900,0,Broadway Group,ALS1,AL,42102
+26,tommy,tuberville,republican,22600,22600,0,Proshot Concrete,ALS1,AL,42102
+27,tommy,tuberville,republican,22100,22100,0,Trivector Services                                ,ALS1,AL,42102
+28,tommy,tuberville,republican,21800,21800,0,Smith's Inc,ALS1,AL,42102
+29,tommy,tuberville,republican,21600,21600,0,Great Southern Wood Preserving,ALS1,AL,42102
+30,tommy,tuberville,republican,21600,21600,0,Ona Atlanta,ALS1,AL,42102
+31,tommy,tuberville,republican,20910,20910,0,Auburn University,ALS1,AL,42102
+32,tommy,tuberville,republican,20850,20850,0,Woodland Homes,ALS1,AL,42102
+33,tommy,tuberville,republican,20100,20100,0,Breland Homes,ALS1,AL,42102
+34,tommy,tuberville,republican,20000,20000,0,Best Auto Sales,ALS1,AL,42102
+35,tommy,tuberville,republican,20000,20000,0,"Beasley, Allen et al",ALS1,AL,42102
+36,tommy,tuberville,republican,19600,19600,0,Conference America,ALS1,AL,42102
+37,tommy,tuberville,republican,17330,17330,0,Southern States Bank,ALS1,AL,42102
+38,tommy,tuberville,republican,16800,16800,0,Flora-Bama Package & Lounge,ALS1,AL,42102
+39,tommy,tuberville,republican,16800,16800,0,Econo-Med Inc,ALS1,AL,42102
+0,thom,tillis,republican,93286,93286,0,Blackstone Group,NCS1,NC,41504
+1,thom,tillis,republican,78155,67655,10500,Truist Financial,NCS1,NC,41504
+2,thom,tillis,republican,58475,48475,10000,Goldman Sachs,NCS1,NC,41504
+3,thom,tillis,republican,57890,47890,10000,Bank of America,NCS1,NC,41504
+4,thom,tillis,republican,57294,53294,4000,Wells Fargo,NCS1,NC,41504
+5,thom,tillis,republican,50341,43841,6500,Charter Communications,NCS1,NC,41504
+6,thom,tillis,republican,44439,39439,5000,Duke Energy,NCS1,NC,41504
+7,thom,tillis,republican,43402,40902,2500,Apollo Global Management,NCS1,NC,41504
+8,thom,tillis,republican,41900,41900,0,Elliott Management,NCS1,NC,41504
+9,thom,tillis,republican,41250,36250,5000,Capital Group Companies,NCS1,NC,41504
+10,thom,tillis,republican,40959,21959,19000,AbbVie Inc,NCS1,NC,41504
+11,thom,tillis,republican,35925,31925,4000,McGuireWoods LLP,NCS1,NC,41504
+12,thom,tillis,republican,35738,28238,7500,Nucor Corp,NCS1,NC,41504
+13,thom,tillis,republican,34600,24600,10000,Live Oak Bank,NCS1,NC,41504
+14,thom,tillis,republican,34454,31954,2500,FMR Corp                                ,NCS1,NC,41504
+15,thom,tillis,republican,33407,27907,5500,Citizens Financial Group,NCS1,NC,41504
+16,thom,tillis,republican,33117,28117,5000,Facebook Inc,NCS1,NC,41504
+17,thom,tillis,republican,32000,32000,0,Stedman West Interests,NCS1,NC,41504
+18,thom,tillis,republican,31800,31800,0,Kirkland & Ellis,NCS1,NC,41504
+19,thom,tillis,republican,31569,21569,10000,EmergeOrtho,NCS1,NC,41504
+0,mark,warner,democrat,100451,100451,0,"Wachtell, Lipton et al                  ",VAS2,VA,40909
+1,mark,warner,democrat,64553,64553,0,Apollo Global Management,VAS2,VA,40909
+2,mark,warner,democrat,49400,43400,6000,Goldman Sachs,VAS2,VA,40909
+3,mark,warner,democrat,48896,44896,4000,Amazon.com,VAS2,VA,40909
+4,mark,warner,democrat,43706,39682,4024,"Akin, Gump et al",VAS2,VA,40909
+5,mark,warner,democrat,41496,41496,0,Covington & Burling,VAS2,VA,40909
+6,mark,warner,democrat,38250,33200,5050,WPP Group,VAS2,VA,40909
+7,mark,warner,democrat,36295,26295,10000,Truist Financial,VAS2,VA,40909
+8,mark,warner,democrat,36205,31205,5000,MasterCard Inc,VAS2,VA,40909
+9,mark,warner,democrat,35865,35865,0,Sullivan & Cromwell,VAS2,VA,40909
+10,mark,warner,democrat,35763,35763,0,Huntington Ingalls Industries,VAS2,VA,40909
+11,mark,warner,democrat,35610,30610,5000,Morgan Stanley,VAS2,VA,40909
+12,mark,warner,democrat,35345,35345,0,"Paul, Weiss et al                       ",VAS2,VA,40909
+13,mark,warner,democrat,33017,30017,3000,Deloitte LLP,VAS2,VA,40909
+14,mark,warner,democrat,31568,31568,0,Commonwealth of Virginia                ,VAS2,VA,40909
+15,mark,warner,democrat,30860,23860,7000,Accenture,VAS2,VA,40909
+16,mark,warner,democrat,30800,30800,0,Windem                                            ,VAS2,VA,40909
+17,mark,warner,democrat,30733,12233,18500,Blue Cross/Blue Shield,VAS2,VA,40909
+18,mark,warner,democrat,30130,21630,8500,Comcast Corp,VAS2,VA,40909
+19,mark,warner,democrat,30119,22619,7500,Microsoft Corp,VAS2,VA,40909
+0,tina,smith,democrat,156676,156676,0,University of Minnesota,MNS1,MN,41706
+1,tina,smith,democrat,155267,145267,10000,Emily's List,MNS1,MN,41706
+2,tina,smith,democrat,104063,104063,0,Democracy Engine,MNS1,MN,41706
+3,tina,smith,democrat,67650,67650,0,Signature Bank,MNS1,MN,41706
+4,tina,smith,democrat,60727,60727,0,State of Minnesota,MNS1,MN,41706
+5,tina,smith,democrat,47171,22671,24500,Blue Cross/Blue Shield,MNS1,MN,41706
+6,tina,smith,democrat,41936,41936,0,Mayo Clinic,MNS1,MN,41706
+7,tina,smith,democrat,39980,29980,10000,Comcast Corp,MNS1,MN,41706
+8,tina,smith,democrat,39500,39500,0,Pohlad Companies                                  ,MNS1,MN,41706
+9,tina,smith,democrat,38180,28180,10000,Ecolab Inc,MNS1,MN,41706
+10,tina,smith,democrat,38175,32175,6000,Dorsey & Whitney,MNS1,MN,41706
+11,tina,smith,democrat,36862,28862,8000,Alphabet Inc,MNS1,MN,41706
+12,tina,smith,democrat,35890,25890,10000,US Bancorp,MNS1,MN,41706
+13,tina,smith,democrat,35705,25705,10000,General Mills,MNS1,MN,41706
+14,tina,smith,democrat,34996,29665,5331,Lockridge Grindal Nauen PLLP,MNS1,MN,41706
+15,tina,smith,democrat,30498,20498,10000,UnitedHealth Group,MNS1,MN,41706
+16,tina,smith,democrat,29500,19500,10000,Wells Fargo,MNS1,MN,41706
+17,tina,smith,democrat,28122,18122,10000,Medtronic Inc,MNS1,MN,41706
+18,tina,smith,democrat,28054,23054,5000,3M Co,MNS1,MN,41706
+19,tina,smith,democrat,28000,28000,0,Heartland Realty Investors,MNS1,MN,41706
+0,bernie,sanders,other,15849,849,15000,Moveon.org,VTS1,VT,29147
+1,bernie,sanders,other,15005,5005,10000,American Postal Workers Union,VTS1,VT,29147
+2,bernie,sanders,other,15000,0,15000,National Assn of Letter Carriers,VTS1,VT,29147
+3,bernie,sanders,other,10444,5444,5000,Service Employees International Union,VTS1,VT,29147
+4,bernie,sanders,other,10141,141,10000,Communications Workers of America,VTS1,VT,29147
+5,bernie,sanders,other,10000,0,10000,America Works,VTS1,VT,29147
+6,bernie,sanders,other,10000,0,10000,American Federation of Teachers,VTS1,VT,29147
+7,bernie,sanders,other,10000,0,10000,Climate Champions PAC,VTS1,VT,29147
+8,bernie,sanders,other,10000,0,10000,Fearless for the People,VTS1,VT,29147
+9,bernie,sanders,other,10000,0,10000,Transport Workers Union,VTS1,VT,29147
+10,bernie,sanders,other,9815,9815,0,Google Inc,VTS1,VT,29147
+11,bernie,sanders,other,8981,8981,0,University of Michigan,VTS1,VT,29147
+12,bernie,sanders,other,8103,8103,0,University of California/Berkeley,VTS1,VT,29147
+13,bernie,sanders,other,7418,7418,0,US Postal Service,VTS1,VT,29147
+14,bernie,sanders,other,7400,7400,0,Dept of Children & Family Services,VTS1,VT,29147
+15,bernie,sanders,other,7302,7302,0,Columbia University,VTS1,VT,29147
+16,bernie,sanders,other,7299,7299,0,University of Maryland,VTS1,VT,29147
+17,bernie,sanders,other,7103,103,7000,National Education Assn,VTS1,VT,29147
+18,bernie,sanders,other,6298,6298,0,Boeing Co,VTS1,VT,29147
+19,bernie,sanders,other,6119,6119,0,University of California,VTS1,VT,29147
+0,tim,scott,republican,122205,122205,0,Votesane PAC,SCS1,SC,21173
+1,tim,scott,republican,68000,58000,10000,Apollo Global Management,SCS1,SC,21173
+2,tim,scott,republican,63000,63000,0,Goldman Sachs,SCS1,SC,21173
+3,tim,scott,republican,51175,43675,7500,Visa Inc,SCS1,SC,21173
+4,tim,scott,republican,46450,38450,8000,MetLife Inc,SCS1,SC,21173
+5,tim,scott,republican,40610,40610,0,Blackstone Group,SCS1,SC,21173
+6,tim,scott,republican,38600,38600,0,Kasowitz Benson Torres Llp,SCS1,SC,21173
+7,tim,scott,republican,35800,25800,10000,Rock Holdings,SCS1,SC,21173
+8,tim,scott,republican,30620,20620,10000,JPMorgan Chase & Co,SCS1,SC,21173
+9,tim,scott,republican,29400,19400,10000,KKR & Co                                ,SCS1,SC,21173
+10,tim,scott,republican,29000,29000,0,Johnson Development,SCS1,SC,21173
+11,tim,scott,republican,28728,28728,0,NorPAC,SCS1,SC,21173
+12,tim,scott,republican,28200,18200,10000,No Labels,SCS1,SC,21173
+13,tim,scott,republican,28000,28000,0,Charles Ingram Lumber,SCS1,SC,21173
+14,tim,scott,republican,27900,22400,5500,"Brownstein, Hyatt et al                 ",SCS1,SC,21173
+15,tim,scott,republican,27600,22350,5250,"Akin, Gump et al",SCS1,SC,21173
+16,tim,scott,republican,26751,21751,5000,New York Life Insurance,SCS1,SC,21173
+17,tim,scott,republican,26550,24050,2500,Pro-Israel America PAC,SCS1,SC,21173
+18,tim,scott,republican,25800,20300,5500,Amgen Inc,SCS1,SC,21173
+19,tim,scott,republican,24500,17000,7500,NASDAQ Inc,SCS1,SC,21173
+0,raphael,warnock,democrat,302756,302756,0,Alphabet Inc,GAS2,GA,42105
+1,raphael,warnock,democrat,283753,283753,0,University of California                ,GAS2,GA,42105
+2,raphael,warnock,democrat,169083,169083,0,J Street,GAS2,GA,42105
+3,raphael,warnock,democrat,128596,128596,0,Emory University,GAS2,GA,42105
+4,raphael,warnock,democrat,125471,125471,0,Microsoft Corp,GAS2,GA,42105
+5,raphael,warnock,democrat,102508,102508,0,Apple Inc,GAS2,GA,42105
+6,raphael,warnock,democrat,98719,98719,0,Stanford University,GAS2,GA,42105
+7,raphael,warnock,democrat,95955,95955,0,Democracy Engine,GAS2,GA,42105
+8,raphael,warnock,democrat,91419,91419,0,Kaiser Permanente,GAS2,GA,42105
+9,raphael,warnock,democrat,89171,89171,0,US Government,GAS2,GA,42105
+10,raphael,warnock,democrat,87828,87828,0,US Dept of Health & Human Services      ,GAS2,GA,42105
+11,raphael,warnock,democrat,86234,86234,0,Amazon.com,GAS2,GA,42105
+12,raphael,warnock,democrat,80716,80716,0,"Paul, Weiss et al                       ",GAS2,GA,42105
+13,raphael,warnock,democrat,72483,72483,0,IBM Corp                                ,GAS2,GA,42105
+14,raphael,warnock,democrat,68609,68609,0,Wilmerhale Llp,GAS2,GA,42105
+15,raphael,warnock,democrat,66150,66150,0,Columbia University,GAS2,GA,42105
+16,raphael,warnock,democrat,65980,65980,0,University of Washington,GAS2,GA,42105
+17,raphael,warnock,democrat,65334,65334,0,University of Maryland,GAS2,GA,42105
+18,raphael,warnock,democrat,63199,63199,0,Comcast Corp,GAS2,GA,42105
+19,raphael,warnock,democrat,62499,62499,0,State of California                     ,GAS2,GA,42105
+0,martin,heinrich,democrat,117304,107325,9979,League of Conservation Voters,NMS1,NM,20930
+1,martin,heinrich,democrat,62067,62067,0,JStreetPAC,NMS1,NM,20930
+2,martin,heinrich,democrat,59451,59451,0,University of New Mexico,NMS1,NM,20930
+3,martin,heinrich,democrat,49100,49100,0,MMR Constructors,NMS1,NM,20930
+4,martin,heinrich,democrat,35452,31202,4250,"Akin, Gump et al",NMS1,NM,20930
+5,martin,heinrich,democrat,32500,32500,0,"Robbins, Geller et al",NMS1,NM,20930
+6,martin,heinrich,democrat,30010,23510,6500,NextEra Energy,NMS1,NM,20930
+7,martin,heinrich,democrat,28950,18950,10000,General Atomics,NMS1,NM,20930
+8,martin,heinrich,democrat,27000,27000,0,Blackstone Group,NMS1,NM,20930
+9,martin,heinrich,democrat,24300,24300,0,Mmr Group,NMS1,NM,20930
+10,martin,heinrich,democrat,22500,17500,5000,Tellurian Inc,NMS1,NM,20930
+11,martin,heinrich,democrat,20750,15750,5000,"Brownstein, Hyatt et al                 ",NMS1,NM,20930
+12,martin,heinrich,democrat,20000,10000,10000,Express Scripts,NMS1,NM,20930
+13,martin,heinrich,democrat,20000,20000,0,Korein Tillery LLC,NMS1,NM,20930
+14,martin,heinrich,democrat,19000,19000,0,Doterra International,NMS1,NM,20930
+15,martin,heinrich,democrat,18700,18700,0,Forbes Tate Partners,NMS1,NM,20930
+16,martin,heinrich,democrat,18500,18500,0,L&F Distributors,NMS1,NM,20930
+17,martin,heinrich,democrat,17200,7200,10000,Facebook Inc,NMS1,NM,20930
+18,martin,heinrich,democrat,16972,7472,9500,Google Inc,NMS1,NM,20930
+19,martin,heinrich,democrat,16700,14000,2700,Ultimate Fighting Championship,NMS1,NM,20930
+20,jacky,rosen,democrat,604219,594219,10000,EMILY's List,NVS1,NV,21743
+21,jacky,rosen,democrat,169839,169839,0,Democracy Engine,NVS1,NV,21743
+22,jacky,rosen,democrat,147400,147400,0,Google Inc,NVS1,NV,21743
+23,jacky,rosen,democrat,133381,123485,9896,League of Conservation Voters,NVS1,NV,21743
+24,jacky,rosen,democrat,88475,88475,0,JStreetPAC,NVS1,NV,21743
+25,jacky,rosen,democrat,71971,71926,45,Womencount PAC,NVS1,NV,21743
+26,jacky,rosen,democrat,64003,64003,0,DE Shaw & Co,NVS1,NV,21743
+27,jacky,rosen,democrat,59823,59823,0,Stanford University,NVS1,NV,21743
+28,jacky,rosen,democrat,47415,15,47400,Democratic Senatorial Campaign Cmte,NVS1,NV,21743
+29,jacky,rosen,democrat,47415,15,47400,Democratic Senatorial Campaign Cmte,NVS1,NV,21743
+30,jacky,rosen,democrat,46704,46704,0,Microsoft Corp,NVS1,NV,21743
+31,jacky,rosen,democrat,41104,41104,0,"Paul, Weiss et al",NVS1,NV,21743
+32,jacky,rosen,democrat,40544,40544,0,Harvard University,NVS1,NV,21743
+33,jacky,rosen,democrat,38879,38879,0,Apple Inc,NVS1,NV,21743
+34,jacky,rosen,democrat,38300,38300,0,Motley Rice LLC,NVS1,NV,21743
+35,jacky,rosen,democrat,36225,26226,9999,Bend The Arc Jewish Action,NVS1,NV,21743
+36,jacky,rosen,democrat,35283,35283,0,Amazon.com,NVS1,NV,21743
+37,jacky,rosen,democrat,35172,35172,0,University of Nevada/Las Vegas,NVS1,NV,21743
+38,jacky,rosen,democrat,34694,34694,0,University of California,NVS1,NV,21743
+39,jacky,rosen,democrat,32525,32525,0,Sullivan & Cromwell,NVS1,NV,21743
+40,jacky,rosen,democrat,32392,32392,0,University of California/Berkeley,NVS1,NV,21743
+0,lindsey,graham,republican,110794,102555,8239,Republican Jewish Coalition,SCS2,SC,29566
+1,lindsey,graham,republican,48893,48893,0,US Dept of Defense,SCS2,SC,29566
+2,lindsey,graham,republican,46364,46364,0,Bank of America,SCS2,SC,29566
+3,lindsey,graham,republican,46053,45053,1000,Wells Fargo,SCS2,SC,29566
+4,lindsey,graham,republican,42591,42591,0,US Government,SCS2,SC,29566
+5,lindsey,graham,republican,41259,32259,9000,Boeing Co,SCS2,SC,29566
+6,lindsey,graham,republican,36333,36333,0,Blackstone Group,SCS2,SC,29566
+7,lindsey,graham,republican,34221,24221,10000,Blue Cross/Blue Shield,SCS2,SC,29566
+8,lindsey,graham,republican,33113,23113,10000,Berkshire Hathaway,SCS2,SC,29566
+9,lindsey,graham,republican,33048,23048,10000,Comcast Corp,SCS2,SC,29566
+10,lindsey,graham,republican,32968,25968,7000,Raytheon Technologies,SCS2,SC,29566
+11,lindsey,graham,republican,32953,25453,7500,Delta Air Lines,SCS2,SC,29566
+12,lindsey,graham,republican,32842,32842,0,US Army,SCS2,SC,29566
+13,lindsey,graham,republican,32673,32673,0,IBM Corp,SCS2,SC,29566
+14,lindsey,graham,republican,32400,32400,0,Rdl Inc,SCS2,SC,29566
+15,lindsey,graham,republican,32250,22250,10000,National Assn of Broadcasters,SCS2,SC,29566
+16,lindsey,graham,republican,30848,30848,0,US Air Force,SCS2,SC,29566
+17,lindsey,graham,republican,30466,20466,10000,Microsoft Corp,SCS2,SC,29566
+18,lindsey,graham,republican,30055,30055,0,US Postal Service,SCS2,SC,29566
+19,lindsey,graham,republican,29201,29201,0,American Airlines Group,SCS2,SC,29566
+20,jon,ossoff,democrat,1084606,1084606,0,Alphabet Inc,GAS1,GA,42103
+21,jon,ossoff,democrat,721821,721821,0,University of California,GAS1,GA,42103
+22,jon,ossoff,democrat,369789,369789,0,Microsoft Corp,GAS1,GA,42103
+23,jon,ossoff,democrat,361540,361540,0,Apple Inc,GAS1,GA,42103
+24,jon,ossoff,democrat,333493,333493,0,Amazon.com                              ,GAS1,GA,42103
+25,jon,ossoff,democrat,262773,262773,0,Facebook Inc,GAS1,GA,42103
+26,jon,ossoff,democrat,238773,238773,0,US Government,GAS1,GA,42103
+27,jon,ossoff,democrat,226458,226458,0,AT&T Inc,GAS1,GA,42103
+28,jon,ossoff,democrat,218299,218299,0,Kaiser Permanente,GAS1,GA,42103
+29,jon,ossoff,democrat,217252,217252,0,Stanford University,GAS1,GA,42103
+30,jon,ossoff,democrat,203559,203559,0,Emory University,GAS1,GA,42103
+31,jon,ossoff,democrat,202977,202977,0,Harvard University,GAS1,GA,42103
+32,jon,ossoff,democrat,188617,188617,0,Democracy Engine,GAS1,GA,42103
+33,jon,ossoff,democrat,183984,183225,759,J Street,GAS1,GA,42103
+34,jon,ossoff,democrat,181127,181127,0,Walt Disney Co,GAS1,GA,42103
+35,jon,ossoff,democrat,172258,172258,0,US Dept of Health & Human Services      ,GAS1,GA,42103
+36,jon,ossoff,democrat,170798,170798,0,IBM Corp,GAS1,GA,42103
+37,jon,ossoff,democrat,161509,161509,0,State of California,GAS1,GA,42103
+38,jon,ossoff,democrat,150141,150141,0,"City of New York, NY",GAS1,GA,42103
+39,jon,ossoff,democrat,141699,141699,0,Columbia University,GAS1,GA,42103
+0,cynthia,lummis,republican,146748,146748,0,Senate Conservatives Fund,WYS2,WY,20953
+1,cynthia,lummis,republican,139288,139288,0,Club for Growth,WYS2,WY,20953
+2,cynthia,lummis,republican,14000,14000,0,Sinclair Companies,WYS2,WY,20953
+3,cynthia,lummis,republican,12500,0,12500,Chevron Corp,WYS2,WY,20953
+4,cynthia,lummis,republican,11200,11200,0,San Francisco Giants,WYS2,WY,20953
+5,cynthia,lummis,republican,10500,500,10000,Occidental Petroleum,WYS2,WY,20953
+6,cynthia,lummis,republican,10026,26,10000,Exxon Mobil,WYS2,WY,20953
+7,cynthia,lummis,republican,10000,0,10000,Common Values PAC,WYS2,WY,20953
+8,cynthia,lummis,republican,10000,0,10000,Credit Union National Assn,WYS2,WY,20953
+9,cynthia,lummis,republican,10000,0,10000,Continuing America's Strength & Security,WYS2,WY,20953
+10,cynthia,lummis,republican,10000,0,10000,Freedom Fund,WYS2,WY,20953
+11,cynthia,lummis,republican,10000,0,10000,Fund for a Conservative Future,WYS2,WY,20953
+12,cynthia,lummis,republican,10000,0,10000,Citizens United,WYS2,WY,20953
+13,cynthia,lummis,republican,10000,0,10000,Badlands PAC,WYS2,WY,20953
+14,cynthia,lummis,republican,10000,0,10000,Alamo PAC,WYS2,WY,20953
+15,cynthia,lummis,republican,10000,0,10000,Bluegrass Cmte,WYS2,WY,20953
+16,cynthia,lummis,republican,10000,0,10000,Heartland Values PAC,WYS2,WY,20953
+17,cynthia,lummis,republican,10000,0,10000,Halliburton Co,WYS2,WY,20953
+18,cynthia,lummis,republican,10000,0,10000,Koch Industries,WYS2,WY,20953
+19,cynthia,lummis,republican,10000,0,10000,National Assn of Convenience Stores,WYS2,WY,20953
+0,chuck,grassley,republican,93660,93660,0,Democracy Engine,IAS1,IA,14226
+1,chuck,grassley,republican,25150,25150,0,DCI Group,IAS1,IA,14226
+2,chuck,grassley,republican,25114,5614,19500,Chevron Corp,IAS1,IA,14226
+3,chuck,grassley,republican,20100,10100,10000,Apollo Global Management,IAS1,IA,14226
+4,chuck,grassley,republican,16925,6925,10000,Wells Fargo,IAS1,IA,14226
+5,chuck,grassley,republican,16733,16733,0,Station Casinos,IAS1,IA,14226
+6,chuck,grassley,republican,16600,11600,5000,DISH Network,IAS1,IA,14226
+7,chuck,grassley,republican,15922,15922,0,Energy Transfer LP,IAS1,IA,14226
+8,chuck,grassley,republican,15500,0,15500,Blue Cross/Blue Shield,IAS1,IA,14226
+9,chuck,grassley,republican,15250,15250,0,Summit Agricultural Group,IAS1,IA,14226
+10,chuck,grassley,republican,15167,15167,0,Peterson Contractors,IAS1,IA,14226
+11,chuck,grassley,republican,14753,14753,0,Walter Oil & Gas,IAS1,IA,14226
+12,chuck,grassley,republican,14500,14500,0,Kirke Financial Services,IAS1,IA,14226
+13,chuck,grassley,republican,13100,13100,0,Hillwood Development,IAS1,IA,14226
+14,chuck,grassley,republican,12900,2900,10000,National Assn of Real Estate Investment Trusts,IAS1,IA,14226
+15,chuck,grassley,republican,12605,12605,0,Blackstone Group,IAS1,IA,14226
+16,chuck,grassley,republican,12600,12600,0,Buyers Realty (Iowa),IAS1,IA,14226
+17,chuck,grassley,republican,12600,12600,0,Kent Corp (Iowa),IAS1,IA,14226
+18,chuck,grassley,republican,12500,0,12500,Charter Communications,IAS1,IA,14226
+19,chuck,grassley,republican,12500,7500,5000,Alston & Bird,IAS1,IA,14226
+0,ben,cardin,democrat,47200,47200,0,NorPAC,MDS1,MD,15408
+1,ben,cardin,democrat,33700,23700,10000,Lockheed Martin,MDS1,MD,15408
+2,ben,cardin,democrat,26250,16250,10000,Guardian Life Insurance,MDS1,MD,15408
+3,ben,cardin,democrat,22250,22250,0,Delaware Valley Urology,MDS1,MD,15408
+4,ben,cardin,democrat,20025,15025,5000,CareFirst Blue Cross/Blue Shield,MDS1,MD,15408
+5,ben,cardin,democrat,20000,10000,10000,Select Medical Corp,MDS1,MD,15408
+6,ben,cardin,democrat,19500,4750,14750,Pakistani American Public Affairs Cmte,MDS1,MD,15408
+7,ben,cardin,democrat,19100,13100,6000,"Brownstein, Hyatt et al",MDS1,MD,15408
+8,ben,cardin,democrat,18750,8750,10000,Northwestern Mutual Life Insurance,MDS1,MD,15408
+9,ben,cardin,democrat,18200,18200,0,Apollo Management,MDS1,MD,15408
+10,ben,cardin,democrat,17200,17200,0,Discovery Inc,MDS1,MD,15408
+11,ben,cardin,democrat,15000,5000,10000,Marriott International,MDS1,MD,15408
+12,ben,cardin,democrat,14900,5400,9500,National Assn of Real Estate Investment Trusts,MDS1,MD,15408
+13,ben,cardin,democrat,14000,14000,0,Michael Companies,MDS1,MD,15408
+14,ben,cardin,democrat,13500,13500,0,HBJ Investments,MDS1,MD,15408
+15,ben,cardin,democrat,12874,2874,10000,American Orthotic & Prosthetic Assn,MDS1,MD,15408
+16,ben,cardin,democrat,12700,2700,10000,TransAmerica,MDS1,MD,15408
+17,ben,cardin,democrat,12000,2000,10000,Massachusetts Mutual Life Insurance,MDS1,MD,15408
+18,ben,cardin,democrat,11800,10800,1000,Covington & Burling,MDS1,MD,15408
+19,ben,cardin,democrat,11550,11550,0,Laureate Education,MDS1,MD,15408
+20,rick,scott,republican,167674,167674,0,Club for Growth,FLS1,FL,41903
+21,rick,scott,republican,125950,125950,0,The Villages,FLS1,FL,41903
+22,rick,scott,republican,75400,65400,10000,GEO Group,FLS1,FL,41903
+23,rick,scott,republican,64600,64600,0,Nextera Energy,FLS1,FL,41903
+24,rick,scott,republican,55600,45600,10000,Home Depot,FLS1,FL,41903
+25,rick,scott,republican,37901,37901,0,State Farm Insurance,FLS1,FL,41903
+26,rick,scott,republican,37800,37800,0,Lewis Bear Co                                     ,FLS1,FL,41903
+27,rick,scott,republican,31100,31100,0,Greenberg Traurig LLP,FLS1,FL,41903
+28,rick,scott,republican,27750,27750,0,Full Sail,FLS1,FL,41903
+29,rick,scott,republican,27490,17490,10000,Republican Jewish Coalition,FLS1,FL,41903
+30,rick,scott,republican,24801,14801,10000,HCA Inc,FLS1,FL,41903
+31,rick,scott,republican,24300,24300,0,Dex Imaging,FLS1,FL,41903
+32,rick,scott,republican,24300,24300,0,Florida Crystals,FLS1,FL,41903
+33,rick,scott,republican,23750,18750,5000,United Technologies,FLS1,FL,41903
+34,rick,scott,republican,22100,22100,0,State of Florida,FLS1,FL,41903
+35,rick,scott,republican,21600,21600,0,GL Homes of Florida,FLS1,FL,41903
+36,rick,scott,republican,20800,20800,0,Covelli Enterprises,FLS1,FL,41903
+37,rick,scott,republican,20800,10800,10000,Ryan LLC,FLS1,FL,41903
+38,rick,scott,republican,20310,14100,6210,BGR Group,FLS1,FL,41903
+39,rick,scott,republican,19750,19750,0,Akerman LLP,FLS1,FL,41903
+0,joni,ernst,republican,103200,103200,0,Votesane PAC,IAS2,IA,41502
+1,joni,ernst,republican,60840,55340,5500,Raytheon Technologies,IAS2,IA,41502
+2,joni,ernst,republican,55546,55546,0,Blackstone Group,IAS2,IA,41502
+3,joni,ernst,republican,43500,34500,9000,NextEra Energy,IAS2,IA,41502
+4,joni,ernst,republican,38300,38300,0,Elliott Management,IAS2,IA,41502
+5,joni,ernst,republican,35000,35000,0,Apollo,IAS2,IA,41502
+6,joni,ernst,republican,32735,27735,5000,Susan B Anthony List,IAS2,IA,41502
+7,joni,ernst,republican,31752,24749,7003,Republican Jewish Coalition,IAS2,IA,41502
+8,joni,ernst,republican,30012,22512,7500,Wells Fargo,IAS2,IA,41502
+9,joni,ernst,republican,29000,29000,0,NorPAC,IAS2,IA,41502
+10,joni,ernst,republican,28170,28170,0,Apollo Global Management,IAS2,IA,41502
+11,joni,ernst,republican,26678,16678,10000,FedEx Corp,IAS2,IA,41502
+12,joni,ernst,republican,25200,25200,0,Lmbi Lp,IAS2,IA,41502
+13,joni,ernst,republican,23800,23800,0,BGR Group,IAS2,IA,41502
+14,joni,ernst,republican,22498,22498,0,Ashley Furniture,IAS2,IA,41502
+15,joni,ernst,republican,22400,22400,0,Amscot Financial,IAS2,IA,41502
+16,joni,ernst,republican,21800,21800,0,Village Properties                                ,IAS2,IA,41502
+17,joni,ernst,republican,21750,11750,10000,Centene Corp,IAS2,IA,41502
+18,joni,ernst,republican,21145,21145,0,Cerberus Capital Management             ,IAS2,IA,41502
+19,joni,ernst,republican,21060,21060,0,Kirkland & Ellis,IAS2,IA,41502
+0,marco,rubio,republican,114900,114900,0,Votesane PAC,FLS2,FL,41102
+1,marco,rubio,republican,109800,104800,5000,Pro-Israel America PAC,FLS2,FL,41102
+2,marco,rubio,republican,63900,63900,0,The Villages,FLS2,FL,41102
+3,marco,rubio,republican,45100,45100,0,GEO Group,FLS2,FL,41102
+4,marco,rubio,republican,42800,42800,0,Leon Medical Centers,FLS2,FL,41102
+5,marco,rubio,republican,39544,34544,5000,Republican Jewish Coalition,FLS2,FL,41102
+6,marco,rubio,republican,31300,26300,5000,Kratos Defense & Security Solutions,FLS2,FL,41102
+7,marco,rubio,republican,28350,23850,4500,"Akin, Gump et al",FLS2,FL,41102
+8,marco,rubio,republican,27550,27550,0,Kirkland & Ellis,FLS2,FL,41102
+9,marco,rubio,republican,25462,22962,2500,Wells Fargo,FLS2,FL,41102
+10,marco,rubio,republican,25300,16300,9000,"Brownstein, Hyatt et al",FLS2,FL,41102
+11,marco,rubio,republican,23225,13225,10000,Comcast Corp,FLS2,FL,41102
+12,marco,rubio,republican,23200,23200,0,Giant Group,FLS2,FL,41102
+13,marco,rubio,republican,23200,23200,0,Duty Free Americas,FLS2,FL,41102
+14,marco,rubio,republican,23200,23200,0,Braman Enterprises,FLS2,FL,41102
+15,marco,rubio,republican,23200,23200,0,Pritchett Trucking,FLS2,FL,41102
+16,marco,rubio,republican,23200,23200,0,Wso,FLS2,FL,41102
+17,marco,rubio,republican,22533,22533,0,Station Casinos,FLS2,FL,41102
+18,marco,rubio,republican,22370,7370,15000,Southern Glazer's Wine & Spirits,FLS2,FL,41102
+19,marco,rubio,republican,21159,21159,0,State of Florida,FLS2,FL,41102
+0,elizabeth,warren,democrat,128407,123407,5000,EMILY's List,MAS1,MA,41301
+1,elizabeth,warren,democrat,109512,106507,3005,Womencount PAC,MAS1,MA,41301
+2,elizabeth,warren,democrat,69418,69418,0,Harvard University,MAS1,MA,41301
+3,elizabeth,warren,democrat,65625,60625,5000,Brown Rudnick Llp,MAS1,MA,41301
+4,elizabeth,warren,democrat,53226,53226,0,Massachusetts Institute of Technology,MAS1,MA,41301
+5,elizabeth,warren,democrat,40131,40131,0,Stanford University,MAS1,MA,41301
+6,elizabeth,warren,democrat,39746,39746,0,"Lieff, Cabraser et al",MAS1,MA,41301
+7,elizabeth,warren,democrat,38582,38582,0,Google Inc,MAS1,MA,41301
+8,elizabeth,warren,democrat,37200,34169,3031,League of Conservation Voters,MAS1,MA,41301
+9,elizabeth,warren,democrat,28061,28061,0,Commonwealth of Massachusetts,MAS1,MA,41301
+10,elizabeth,warren,democrat,27266,27266,0,Berger & Montague,MAS1,MA,41301
+11,elizabeth,warren,democrat,26911,16911,10000,Moveon.org,MAS1,MA,41301
+12,elizabeth,warren,democrat,26646,26646,0,Boston University,MAS1,MA,41301
+13,elizabeth,warren,democrat,23900,23900,0,"Cotchett, Pitre & McCarthy",MAS1,MA,41301
+14,elizabeth,warren,democrat,23452,23452,0,Goulston & Storrs,MAS1,MA,41301
+15,elizabeth,warren,democrat,23306,23306,0,Harvard University Law School,MAS1,MA,41301
+16,elizabeth,warren,democrat,23023,23023,0,Morgan Stanley,MAS1,MA,41301
+17,elizabeth,warren,democrat,22525,22525,0,Baron & Budd,MAS1,MA,41301
+18,elizabeth,warren,democrat,21756,21756,0,Democracy Engine,MAS1,MA,41301
+19,elizabeth,warren,democrat,21615,21615,0,Yelp Inc,MAS1,MA,41301
+0,rand,paul,republican,148795,147595,1200,Club for Growth,KYS2,KY,41104
+1,rand,paul,republican,143702,138702,5000,Senate Conservatives Fund,KYS2,KY,41104
+2,rand,paul,republican,20300,20300,0,Mason Capital Management,KYS2,KY,41104
+3,rand,paul,republican,20300,20300,0,G&J Pepsi-Cola Bottlers,KYS2,KY,41104
+4,rand,paul,republican,17400,17400,0,Needham Roofing,KYS2,KY,41104
+5,rand,paul,republican,17000,17000,0,Forcht Group of Kentucky,KYS2,KY,41104
+6,rand,paul,republican,15922,15922,0,Energy Transfer LP,KYS2,KY,41104
+7,rand,paul,republican,14753,14753,0,Walter Oil & Gas,KYS2,KY,41104
+8,rand,paul,republican,14250,14250,0,US Immigration Fund,KYS2,KY,41104
+9,rand,paul,republican,14000,6500,7500,KKR & Co,KYS2,KY,41104
+10,rand,paul,republican,12500,1500,11000,Amgen Inc,KYS2,KY,41104
+11,rand,paul,republican,12200,12200,0,Red Apple Group,KYS2,KY,41104
+12,rand,paul,republican,12025,12025,0,Frost Brown Todd LLC,KYS2,KY,41104
+13,rand,paul,republican,12000,0,12000,Charter Communications,KYS2,KY,41104
+14,rand,paul,republican,12000,2000,10000,Associated Builders & Contractors,KYS2,KY,41104
+15,rand,paul,republican,11700,11700,0,Chartwell Hotels,KYS2,KY,41104
+16,rand,paul,republican,11675,1675,10000,Humana Inc,KYS2,KY,41104
+17,rand,paul,republican,11600,11600,0,Hunt Companies,KYS2,KY,41104
+18,rand,paul,republican,11600,11600,0,Golden Age Farm,KYS2,KY,41104
+19,rand,paul,republican,11600,11600,0,Bobby Cox Companies,KYS2,KY,41104
+0,mark,kelly,democrat,245011,245011,0,Democracy Engine,AZS1,AZ,41905
+1,mark,kelly,democrat,162838,162838,0,University of California                ,AZS1,AZ,41905
+2,mark,kelly,democrat,110153,110153,0,Alphabet Inc,AZS1,AZ,41905
+3,mark,kelly,democrat,101501,101501,0,University of Arizona,AZS1,AZ,41905
+4,mark,kelly,democrat,94369,94369,0,Arizona State University,AZS1,AZ,41905
+5,mark,kelly,democrat,69500,69500,0,Microsoft Corp                          ,AZS1,AZ,41905
+6,mark,kelly,democrat,66909,66909,0,Apple Inc,AZS1,AZ,41905
+7,mark,kelly,democrat,54688,54688,0,J Street,AZS1,AZ,41905
+8,mark,kelly,democrat,51028,51028,0,Walt Disney Co,AZS1,AZ,41905
+9,mark,kelly,democrat,50808,50808,0,Amazon.com,AZS1,AZ,41905
+10,mark,kelly,democrat,49039,49039,0,US Government,AZS1,AZ,41905
+11,mark,kelly,democrat,46643,46643,0,Stanford University,AZS1,AZ,41905
+12,mark,kelly,democrat,43553,43553,0,Raytheon Technologies,AZS1,AZ,41905
+13,mark,kelly,democrat,43201,43201,0,Wilmerhale Llp,AZS1,AZ,41905
+14,mark,kelly,democrat,42000,42000,0,Motley Rice LLC,AZS1,AZ,41905
+15,mark,kelly,democrat,40422,40422,0,Intel Corp,AZS1,AZ,41905
+16,mark,kelly,democrat,40072,40072,0,Harvard University,AZS1,AZ,41905
+17,mark,kelly,democrat,38642,38642,0,Banner Health,AZS1,AZ,41905
+18,mark,kelly,democrat,38248,38248,0,IBM Corp,AZS1,AZ,41905
+19,mark,kelly,democrat,35944,35944,0,Yale University,AZS1,AZ,41905
+0,sheldon,whitehouse,democrat,182361,172549,9812,League of Conservation Voters,RIS1,RI,40704
+1,sheldon,whitehouse,democrat,75838,75838,0,Democracy Engine,RIS1,RI,40704
+2,sheldon,whitehouse,democrat,33475,33475,0,Motley Rice LLC,RIS1,RI,40704
+3,sheldon,whitehouse,democrat,33439,33439,0,Wilmerhale Llp,RIS1,RI,40704
+4,sheldon,whitehouse,democrat,25844,25844,0,Brown University,RIS1,RI,40704
+5,sheldon,whitehouse,democrat,23399,18399,5000,JStreetPAC,RIS1,RI,40704
+6,sheldon,whitehouse,democrat,22300,22300,0,"Kazan, McClain et al",RIS1,RI,40704
+7,sheldon,whitehouse,democrat,20630,7400,13230,Ocean Champions,RIS1,RI,40704
+8,sheldon,whitehouse,democrat,20000,10000,10000,Alkermes Inc,RIS1,RI,40704
+9,sheldon,whitehouse,democrat,18900,18900,0,"Kleiner, Perkins et al",RIS1,RI,40704
+10,sheldon,whitehouse,democrat,18400,18400,0,"Adler, Pollock & Sheehan",RIS1,RI,40704
+11,sheldon,whitehouse,democrat,17900,17900,0,Aloha Partners,RIS1,RI,40704
+12,sheldon,whitehouse,democrat,16535,6535,10000,CVS Health,RIS1,RI,40704
+13,sheldon,whitehouse,democrat,16200,16200,0,DreamWorks SKG,RIS1,RI,40704
+14,sheldon,whitehouse,democrat,16200,16200,0,Korein Tillery Llc,RIS1,RI,40704
+15,sheldon,whitehouse,democrat,16200,16200,0,Technology Crossover Ventures,RIS1,RI,40704
+16,sheldon,whitehouse,democrat,15800,10800,5000,DISH Network,RIS1,RI,40704
+17,sheldon,whitehouse,democrat,15400,10900,4500,Greenberg Traurig LLP,RIS1,RI,40704
+18,sheldon,whitehouse,democrat,15300,15300,0,Larkspur Management,RIS1,RI,40704
+19,sheldon,whitehouse,democrat,15300,12300,3000,National Grid USA,RIS1,RI,40704
+0,mike,crapo,republican,94600,92100,2500,UnitedHealth Group,IDS2,ID,29345
+1,mike,crapo,republican,80250,70250,10000,Apollo Global Management,IDS2,ID,29345
+2,mike,crapo,republican,45000,45000,0,Capital Group,IDS2,ID,29345
+3,mike,crapo,republican,39300,39300,0,BlackRock Inc,IDS2,ID,29345
+4,mike,crapo,republican,37710,37710,0,Pro-Israel America PAC,IDS2,ID,29345
+5,mike,crapo,republican,36300,20300,16000,Blue Cross/Blue Shield,IDS2,ID,29345
+6,mike,crapo,republican,32700,24800,7900,American Israel Public Affairs Cmte,IDS2,ID,29345
+7,mike,crapo,republican,32400,24900,7500,Delta Air Lines,IDS2,ID,29345
+8,mike,crapo,republican,29300,29300,0,NorPAC,IDS2,ID,29345
+9,mike,crapo,republican,25700,25700,0,Blackstone Group,IDS2,ID,29345
+10,mike,crapo,republican,24422,16922,7500,Energy Transfer LP,IDS2,ID,29345
+11,mike,crapo,republican,21000,13800,7200,Illumina Inc,IDS2,ID,29345
+12,mike,crapo,republican,19900,19900,0,"Paul, Weiss et al",IDS2,ID,29345
+13,mike,crapo,republican,16733,16733,0,Station Casinos,IDS2,ID,29345
+14,mike,crapo,republican,16500,11500,5000,DaVita Inc,IDS2,ID,29345
+15,mike,crapo,republican,16200,9200,7000,"Brownstein, Hyatt et al",IDS2,ID,29345
+16,mike,crapo,republican,15800,5800,10000,National Assn of Home Builders,IDS2,ID,29345
+17,mike,crapo,republican,14800,14800,0,"Tarplin, Downs & Young",IDS2,ID,29345
+18,mike,crapo,republican,14753,14753,0,Walter Oil & Gas,IDS2,ID,29345
+19,mike,crapo,republican,14100,14100,0,Hunt Companies,IDS2,ID,29345
+0,ed,markey,democrat,128733,128733,0,Democracy Engine,MAS2,MA,14435
+1,ed,markey,democrat,107688,107688,0,Harvard University,MAS2,MA,14435
+2,ed,markey,democrat,64389,64389,0,Apollo Global Management,MAS2,MA,14435
+3,ed,markey,democrat,52712,52712,0,Alphabet Inc,MAS2,MA,14435
+4,ed,markey,democrat,51470,51470,0,Commonwealth of Massachusetts,MAS2,MA,14435
+5,ed,markey,democrat,41425,41425,0,Blackstone Group,MAS2,MA,14435
+6,ed,markey,democrat,39892,39892,0,Boston University,MAS2,MA,14435
+7,ed,markey,democrat,39472,39472,0,WilmerHale LLP,MAS2,MA,14435
+8,ed,markey,democrat,37022,37022,0,Mass General Brigham,MAS2,MA,14435
+9,ed,markey,democrat,33087,33087,0,Massachusetts Institute of Technology,MAS2,MA,14435
+10,ed,markey,democrat,28569,28569,0,Tufts University,MAS2,MA,14435
+11,ed,markey,democrat,27807,27807,0,University of Massachusetts,MAS2,MA,14435
+12,ed,markey,democrat,25000,25000,0,Kabafusion,MAS2,MA,14435
+13,ed,markey,democrat,24450,24450,0,"Cotchett, Pitre & McCarthy",MAS2,MA,14435
+14,ed,markey,democrat,22857,17857,5000,Walmart Inc,MAS2,MA,14435
+15,ed,markey,democrat,22568,22568,0,"Robbins, Geller et al                   ",MAS2,MA,14435
+16,ed,markey,democrat,20620,20620,0,Capital Group,MAS2,MA,14435
+17,ed,markey,democrat,19864,19864,0,Apple Inc,MAS2,MA,14435
+18,ed,markey,democrat,19215,11715,7500,DISH Network,MAS2,MA,14435
+19,ed,markey,democrat,18200,18200,0,Power Rogers Llp,MAS2,MA,14435
+0,mitch,mcconnell,republican,163575,163575,0,NorPAC,KYS1,KY,14921
+1,mitch,mcconnell,republican,126800,126800,0,Votesane PAC,KYS1,KY,14921
+2,mitch,mcconnell,republican,109502,108502,1000,Blackstone Group,KYS1,KY,14921
+3,mitch,mcconnell,republican,107600,102600,5000,United Parcel Service,KYS1,KY,14921
+4,mitch,mcconnell,republican,88402,80902,7500,KKR & Co,KYS1,KY,14921
+5,mitch,mcconnell,republican,72091,67091,5000,NextEra Energy,KYS1,KY,14921
+6,mitch,mcconnell,republican,63600,53600,10000,Apollo Global Management,KYS1,KY,14921
+7,mitch,mcconnell,republican,59250,59250,0,Capital Group Companies,KYS1,KY,14921
+8,mitch,mcconnell,republican,58383,48383,10000,Humana Inc,KYS1,KY,14921
+9,mitch,mcconnell,republican,56295,56295,0,AT&T Inc,KYS1,KY,14921
+10,mitch,mcconnell,republican,54509,34009,20500,Blue Cross/Blue Shield,KYS1,KY,14921
+11,mitch,mcconnell,republican,53388,53388,0,CC Clark Inc,KYS1,KY,14921
+12,mitch,mcconnell,republican,52204,42204,10000,GEO Group,KYS1,KY,14921
+13,mitch,mcconnell,republican,48639,48639,0,Eli Lilly & Co,KYS1,KY,14921
+14,mitch,mcconnell,republican,46656,28156,18500,Raytheon Technologies,KYS1,KY,14921
+15,mitch,mcconnell,republican,46617,46617,0,American Airlines Group,KYS1,KY,14921
+16,mitch,mcconnell,republican,43743,43743,0,UnitedHealth Group,KYS1,KY,14921
+17,mitch,mcconnell,republican,42320,35320,7000,Foley & Lardner,KYS1,KY,14921
+18,mitch,mcconnell,republican,41938,36938,5000,MetLife Inc,KYS1,KY,14921
+19,mitch,mcconnell,republican,41727,36727,5000,JPMorgan Chase & Co,KYS1,KY,14921
+0,kyrsten,sinema,democrat,405588,395588,10000,Emily's List,AZS2,AZ,21300
+1,kyrsten,sinema,democrat,208004,208004,0,Democracy Engine,AZS2,AZ,21300
+2,kyrsten,sinema,democrat,165650,165650,0,Votesane PAC,AZS2,AZ,21300
+3,kyrsten,sinema,democrat,69011,66011,3000,Google Inc,AZS2,AZ,21300
+4,kyrsten,sinema,democrat,64350,64350,0,"Paul, Weiss et al",AZS2,AZ,21300
+5,kyrsten,sinema,democrat,59038,59038,0,Arizona State University,AZS2,AZ,21300
+6,kyrsten,sinema,democrat,53525,43525,10000,American Airlines,AZS2,AZ,21300
+7,kyrsten,sinema,democrat,50398,40445,9953,League of Conservation Voters,AZS2,AZ,21300
+8,kyrsten,sinema,democrat,49600,49600,0,Crescent Capital Group,AZS2,AZ,21300
+9,kyrsten,sinema,democrat,48391,48391,0,University of Arizona,AZS2,AZ,21300
+10,kyrsten,sinema,democrat,47425,25,47400,Democratic Senatorial Campaign Cmte,AZS2,AZ,21300
+11,kyrsten,sinema,democrat,47425,25,47400,Democratic Senatorial Campaign Cmte,AZS2,AZ,21300
+12,kyrsten,sinema,democrat,42815,42815,0,Snell & Wilmer,AZS2,AZ,21300
+13,kyrsten,sinema,democrat,37050,37050,0,Motley Rice LLC,AZS2,AZ,21300
+14,kyrsten,sinema,democrat,35046,35036,10,Womencount PAC,AZS2,AZ,21300
+15,kyrsten,sinema,democrat,33650,23650,10000,Goldman Sachs,AZS2,AZ,21300
+16,kyrsten,sinema,democrat,29549,28049,1500,"Akin, Gump et al",AZS2,AZ,21300
+17,kyrsten,sinema,democrat,28650,20150,8500,American Express,AZS2,AZ,21300
+18,kyrsten,sinema,democrat,27346,27346,0,"Wachtell, Lipton et al",AZS2,AZ,21300
+19,kyrsten,sinema,democrat,26650,26650,0,DE Shaw & Co,AZS2,AZ,21300
+20,kyrsten,sinema,democrat,24406,24406,0,Perkins Coie,AZS2,AZ,21300
+0,jack,reed,democrat,54800,47800,7000,Lockheed Martin,RIS2,RI,29142
+1,jack,reed,democrat,44625,39625,5000,L3Harris Technologies,RIS2,RI,29142
+2,jack,reed,democrat,29525,25525,4000,General Dynamics,RIS2,RI,29142
+3,jack,reed,democrat,23491,23491,0,Walt Disney Co                          ,RIS2,RI,29142
+4,jack,reed,democrat,22650,13650,9000,General Atomics,RIS2,RI,29142
+5,jack,reed,democrat,20000,20000,0,Century 21 Department Stores,RIS2,RI,29142
+6,jack,reed,democrat,17500,7500,10000,Service Employees International Union,RIS2,RI,29142
+7,jack,reed,democrat,16600,6600,10000,Comcast Corp,RIS2,RI,29142
+8,jack,reed,democrat,16400,11400,5000,Greenberg Traurig LLP,RIS2,RI,29142
+9,jack,reed,democrat,14000,14000,0,"Kramer, Levin et al",RIS2,RI,29142
+10,jack,reed,democrat,13600,5600,8000,AFLAC Inc,RIS2,RI,29142
+11,jack,reed,democrat,12500,0,12500,International Assn of Fire Fighters,RIS2,RI,29142
+12,jack,reed,democrat,12000,2000,10000,CVS Health,RIS2,RI,29142
+13,jack,reed,democrat,11500,1500,10000,Leidos Inc,RIS2,RI,29142
+14,jack,reed,democrat,11200,11200,0,Democracy Engine,RIS2,RI,29142
+15,jack,reed,democrat,11200,11200,0,Lyft Inc,RIS2,RI,29142
+16,jack,reed,democrat,11000,11000,0,Innovative Defense Technologies,RIS2,RI,29142
+17,jack,reed,democrat,10900,10900,0,Apollo Global Management,RIS2,RI,29142
+18,jack,reed,democrat,10800,10800,0,Bluestem Asset Management,RIS2,RI,29142
+19,jack,reed,democrat,10710,3710,7000,Raytheon Technologies,RIS2,RI,29142
+20,marsha,blackburn,republican,282892,282892,0,Senate Conservatives Fund,TNS1,TN,20351
+21,marsha,blackburn,republican,218704,218100,604,Club for Growth,TNS1,TN,20351
+22,marsha,blackburn,republican,56150,46150,10000,CoreCivic Inc,TNS1,TN,20351
+23,marsha,blackburn,republican,47400,0,47400,National Republican Senatorial Cmte,TNS1,TN,20351
+24,marsha,blackburn,republican,40825,30825,10000,FedEx Corp,TNS1,TN,20351
+25,marsha,blackburn,republican,39700,29700,10000,HCA Inc,TNS1,TN,20351
+26,marsha,blackburn,republican,30500,20500,10000,Duke Energy,TNS1,TN,20351
+27,marsha,blackburn,republican,30450,20450,10000,Comcast Corp,TNS1,TN,20351
+28,marsha,blackburn,republican,30000,27000,3000,DISH Network,TNS1,TN,20351
+29,marsha,blackburn,republican,29300,29300,0,Blackstone Group,TNS1,TN,20351
+30,marsha,blackburn,republican,28350,18350,10000,AT&T Inc,TNS1,TN,20351
+31,marsha,blackburn,republican,28210,28210,0,State of Tennessee,TNS1,TN,20351
+32,marsha,blackburn,republican,27700,26700,1000,Tom James Co,TNS1,TN,20351
+33,marsha,blackburn,republican,27600,17600,10000,CenturyLink,TNS1,TN,20351
+34,marsha,blackburn,republican,27250,22250,5000,Jackson National Life Insurance,TNS1,TN,20351
+35,marsha,blackburn,republican,27000,27000,0,Fitzgerald Glider Kits,TNS1,TN,20351
+36,marsha,blackburn,republican,26200,16200,10000,Quicken Loans,TNS1,TN,20351
+37,marsha,blackburn,republican,24800,24800,0,Southwestern Co,TNS1,TN,20351
+38,marsha,blackburn,republican,24300,24300,0,Healthmark Ventures,TNS1,TN,20351
+39,marsha,blackburn,republican,24100,24100,0,Powell Companies,TNS1,TN,20351
+0,robert,menendez,democrat,248889,248889,0,NorPAC,NJS1,NJ,29373
+1,robert,menendez,democrat,86362,86362,0,Lowenstein Sandler LLP,NJS1,NJ,29373
+2,robert,menendez,democrat,65700,60700,5000,Federated Investors Inc,NJS1,NJ,29373
+3,robert,menendez,democrat,51950,41950,10000,Gibbons PC,NJS1,NJ,29373
+4,robert,menendez,democrat,51305,44305,7000,Greenberg Traurig LLP,NJS1,NJ,29373
+5,robert,menendez,democrat,51200,51200,0,Panepinto Properties,NJS1,NJ,29373
+6,robert,menendez,democrat,50750,50750,0,"Paul, Weiss et al",NJS1,NJ,29373
+7,robert,menendez,democrat,49875,39875,10000,Prudential Financial,NJS1,NJ,29373
+8,robert,menendez,democrat,48485,38485,10000,Goldman Sachs,NJS1,NJ,29373
+9,robert,menendez,democrat,40000,40000,0,Motley Rice LLC,NJS1,NJ,29373
+10,robert,menendez,democrat,38200,38200,0,Mack-Cali Realty,NJS1,NJ,29373
+11,robert,menendez,democrat,35100,35100,0,"Pachulski, Stang et al",NJS1,NJ,29373
+12,robert,menendez,democrat,34900,24900,10000,IDT Corp,NJS1,NJ,29373
+13,robert,menendez,democrat,32500,32500,0,Inserra Supermarkets,NJS1,NJ,29373
+14,robert,menendez,democrat,30650,30650,0,"Carella, Byrne et al",NJS1,NJ,29373
+15,robert,menendez,democrat,30250,20250,10000,"Brownstein, Hyatt et al",NJS1,NJ,29373
+16,robert,menendez,democrat,27205,17205,10000,Comcast Corp,NJS1,NJ,29373
+17,robert,menendez,democrat,27200,26200,1000,Tom James Co,NJS1,NJ,29373
+18,robert,menendez,democrat,27100,23100,4000,"Akin, Gump et al",NJS1,NJ,29373
+19,robert,menendez,democrat,27000,27000,0,Leon Medical Centers                              ,NJS1,NJ,29373
+0,dianne,feinstein,democrat,108450,98450,10000,EMILY's List,CAS2,CA,49300
+1,dianne,feinstein,democrat,52035,42035,10000,PG&E Corp,CAS2,CA,49300
+2,dianne,feinstein,democrat,45900,45900,0,Pisces Inc,CAS2,CA,49300
+3,dianne,feinstein,democrat,42300,42300,0,JPMorgan Chase & Co,CAS2,CA,49300
+4,dianne,feinstein,democrat,41900,31900,10000,Edison International,CAS2,CA,49300
+5,dianne,feinstein,democrat,36400,27400,9000,Holland & Knight,CAS2,CA,49300
+6,dianne,feinstein,democrat,36152,32902,3250,"Akin, Gump et al",CAS2,CA,49300
+7,dianne,feinstein,democrat,34400,34400,0,Estee Lauder Companies,CAS2,CA,49300
+8,dianne,feinstein,democrat,32525,22525,10000,General Atomics,CAS2,CA,49300
+9,dianne,feinstein,democrat,32400,32400,0,JStreetPAC,CAS2,CA,49300
+10,dianne,feinstein,democrat,31610,21610,10000,Qualcomm Inc,CAS2,CA,49300
+11,dianne,feinstein,democrat,30000,30000,0,McStrauss Co,CAS2,CA,49300
+12,dianne,feinstein,democrat,29600,21600,8000,SpaceX,CAS2,CA,49300
+13,dianne,feinstein,democrat,28699,28699,0,Democracy Engine,CAS2,CA,49300
+14,dianne,feinstein,democrat,28650,28650,0,"Casey, Gerry et al",CAS2,CA,49300
+15,dianne,feinstein,democrat,27500,20800,6700,"Manatt, Phelps & Phillips",CAS2,CA,49300
+16,dianne,feinstein,democrat,25300,20800,4500,Molina Healthcare,CAS2,CA,49300
+17,dianne,feinstein,democrat,25112,25112,0,Southern California Edison,CAS2,CA,49300
+18,dianne,feinstein,democrat,25010,15010,10000,Vail Resorts,CAS2,CA,49300
+19,dianne,feinstein,democrat,24422,24422,0,San Francisco Unified School District,CAS2,CA,49300
+0,mike,rounds,republican,27250,27250,0,Sanford Health,SDS2,SD,41505
+1,mike,rounds,republican,23648,23648,0,State of South Dakota,SDS2,SD,41505
+2,mike,rounds,republican,22700,12700,10000,Rock Holdings,SDS2,SD,41505
+3,mike,rounds,republican,22400,22400,0,Avairpros,SDS2,SD,41505
+4,mike,rounds,republican,20115,14115,6000,US Bancorp,SDS2,SD,41505
+5,mike,rounds,republican,16800,16800,0,Amway/Alticor Inc,SDS2,SD,41505
+6,mike,rounds,republican,15400,15400,0,Avera Health Systems                    ,SDS2,SD,41505
+7,mike,rounds,republican,15020,15020,0,Blackstone Group                        ,SDS2,SD,41505
+8,mike,rounds,republican,14400,9400,5000,Capital Group Companies,SDS2,SD,41505
+9,mike,rounds,republican,14150,9150,5000,Blessey Marine Service,SDS2,SD,41505
+10,mike,rounds,republican,13200,13200,0,Black Hills Harley-Davidson,SDS2,SD,41505
+11,mike,rounds,republican,13025,3025,10000,American Bankers Assn,SDS2,SD,41505
+12,mike,rounds,republican,13000,3000,10000,Cboe Global Markets,SDS2,SD,41505
+13,mike,rounds,republican,12700,2700,10000,Mortgage Bankers Assn,SDS2,SD,41505
+14,mike,rounds,republican,12600,12600,0,Daktronics Inc,SDS2,SD,41505
+15,mike,rounds,republican,12300,7800,4500,Goldman Sachs,SDS2,SD,41505
+16,mike,rounds,republican,11200,11200,0,Moyle Petroleum,SDS2,SD,41505
+17,mike,rounds,republican,11200,11200,0,Nucor Corp                              ,SDS2,SD,41505
+18,mike,rounds,republican,11200,11200,0,Bernard Marcus Family Foundation,SDS2,SD,41505
+19,mike,rounds,republican,11000,1000,10000,Ernst & Young,SDS2,SD,41505
+0,susan,collins,republican,115825,115825,0,Votesane PAC,MES2,ME,49703
+1,susan,collins,republican,87321,87321,0,Blackstone Group,MES2,ME,49703
+2,susan,collins,republican,62067,57067,5000,Republican Jewish Coalition,MES2,ME,49703
+3,susan,collins,republican,49675,47175,2500,Goldman Sachs,MES2,ME,49703
+4,susan,collins,republican,41866,24366,17500,Blue Cross/Blue Shield,MES2,ME,49703
+5,susan,collins,republican,39348,39348,0,Sullivan & Cromwell,MES2,ME,49703
+6,susan,collins,republican,37035,32035,5000,KKR & Co,MES2,ME,49703
+7,susan,collins,republican,35600,35600,0,McNa Dental Plans,MES2,ME,49703
+8,susan,collins,republican,34000,34000,0,Elliott Management,MES2,ME,49703
+9,susan,collins,republican,33603,33603,0,General Dynamics,MES2,ME,49703
+10,susan,collins,republican,32500,24000,8500,National Assn of Broadcasters,MES2,ME,49703
+11,susan,collins,republican,31910,24410,7500,FedEx Corp,MES2,ME,49703
+12,susan,collins,republican,29054,15554,13500,Raytheon Technologies,MES2,ME,49703
+13,susan,collins,republican,27850,27850,0,NorPAC,MES2,ME,49703
+14,susan,collins,republican,27400,27400,0,"Welsh, Carson et al                     ",MES2,ME,49703
+15,susan,collins,republican,24522,19522,5000,Wells Fargo,MES2,ME,49703
+16,susan,collins,republican,23400,23400,0,Kirkland & Ellis,MES2,ME,49703
+17,susan,collins,republican,22800,22800,0,Neuberger Berman LLC,MES2,ME,49703
+18,susan,collins,republican,22400,22400,0,Ashley Furniture,MES2,ME,49703
+19,susan,collins,republican,22400,22400,0,Amscot Financial,MES2,ME,49703
+0,patty,murray,democrat,97750,93550,4200,American Israel Public Affairs Cmte,WAS2,WA,49308
+1,patty,murray,democrat,87839,80839,7000,Amazon.com,WAS2,WA,49308
+2,patty,murray,democrat,68499,68499,0,Democracy Engine,WAS2,WA,49308
+3,patty,murray,democrat,68096,58096,10000,Microsoft Corp,WAS2,WA,49308
+4,patty,murray,democrat,59416,59416,0,University of Washington,WAS2,WA,49308
+5,patty,murray,democrat,48133,38133,10000,EMILY's List,WAS2,WA,49308
+6,patty,murray,democrat,32700,25200,7500,Apollo Global Management,WAS2,WA,49308
+7,patty,murray,democrat,28349,20849,7500,Pfizer Inc,WAS2,WA,49308
+8,patty,murray,democrat,27200,27200,0,Power Rogers LLP,WAS2,WA,49308
+9,patty,murray,democrat,27100,27100,0,Palantir Technologies,WAS2,WA,49308
+10,patty,murray,democrat,26900,21900,5000,Masimo Corp,WAS2,WA,49308
+11,patty,murray,democrat,25800,20800,5000,JPMorgan Chase & Co,WAS2,WA,49308
+12,patty,murray,democrat,24808,15808,9000,Boeing Co,WAS2,WA,49308
+13,patty,murray,democrat,23200,23200,0,Freedom Road LLC (Colorado),WAS2,WA,49308
+14,patty,murray,democrat,22662,12662,10000,Comcast Corp,WAS2,WA,49308
+15,patty,murray,democrat,22600,18100,4500,"Baker, Donelson et al",WAS2,WA,49308
+16,patty,murray,democrat,21900,16900,5000,Qualcomm Inc,WAS2,WA,49308
+17,patty,murray,democrat,21604,21604,0,State of Washington,WAS2,WA,49308
+18,patty,murray,democrat,21565,16165,5400,Trident Seafoods,WAS2,WA,49308
+19,patty,murray,democrat,21500,21500,0,NorPAC,WAS2,WA,49308
+0,jeanne,shaheen,democrat,164391,164391,0,Emily's List,NHS2,NH,40906
+1,jeanne,shaheen,democrat,63956,63956,0,Dartmouth College,NHS2,NH,40906
+2,jeanne,shaheen,democrat,55500,55500,0,Votesane PAC,NHS2,NH,40906
+3,jeanne,shaheen,democrat,54612,54612,0,University of New Hampshire,NHS2,NH,40906
+4,jeanne,shaheen,democrat,51805,51805,0,Capital Group,NHS2,NH,40906
+5,jeanne,shaheen,democrat,46727,46727,0,Harvard University,NHS2,NH,40906
+6,jeanne,shaheen,democrat,36941,36941,0,Democracy Engine,NHS2,NH,40906
+7,jeanne,shaheen,democrat,35518,35518,0,State of New Hampshire,NHS2,NH,40906
+8,jeanne,shaheen,democrat,34784,34784,0,University of California,NHS2,NH,40906
+9,jeanne,shaheen,democrat,34325,34325,0,US Government,NHS2,NH,40906
+10,jeanne,shaheen,democrat,33058,31988,1070,J Street,NHS2,NH,40906
+11,jeanne,shaheen,democrat,30802,20802,10000,Comcast Corp,NHS2,NH,40906
+12,jeanne,shaheen,democrat,28027,27027,1000,BAE Systems,NHS2,NH,40906
+13,jeanne,shaheen,democrat,27236,27236,0,Dartmouth-Hitchcock Medical Center      ,NHS2,NH,40906
+14,jeanne,shaheen,democrat,27001,24001,3000,FMR Corp,NHS2,NH,40906
+15,jeanne,shaheen,democrat,26907,26907,0,Ropes & Gray,NHS2,NH,40906
+16,jeanne,shaheen,democrat,26565,14065,12500,Blue Cross/Blue Shield,NHS2,NH,40906
+17,jeanne,shaheen,democrat,26397,15397,11000,Raytheon Technologies,NHS2,NH,40906
+18,jeanne,shaheen,democrat,25402,15402,10000,Microsoft Corp,NHS2,NH,40906
+19,jeanne,shaheen,democrat,22400,22400,0,"Kleiner, Perkins et al                            ",NHS2,NH,40906
+0,bill,hagerty,republican,108700,103700,5000,Rogers Group,TNS2,TN,42100
+1,bill,hagerty,republican,61850,51850,10000,Apollo Global Management,TNS2,TN,42100
+2,bill,hagerty,republican,60400,60400,0,State of Tennessee,TNS2,TN,42100
+3,bill,hagerty,republican,59335,49335,10000,Fedex Corp,TNS2,TN,42100
+4,bill,hagerty,republican,57150,57150,0,HCA Inc,TNS2,TN,42100
+5,bill,hagerty,republican,45825,45825,0,Cerberus Capital Management,TNS2,TN,42100
+6,bill,hagerty,republican,44000,44000,0,Hall Capital,TNS2,TN,42100
+7,bill,hagerty,republican,42000,32000,10000,International Paper,TNS2,TN,42100
+8,bill,hagerty,republican,40000,30000,10000,CoreCivic Inc,TNS2,TN,42100
+9,bill,hagerty,republican,37925,37925,0,Asurion Corp,TNS2,TN,42100
+10,bill,hagerty,republican,37695,37695,0,Vanderbilt University,TNS2,TN,42100
+11,bill,hagerty,republican,33750,23750,10000,Acadia Healthcare,TNS2,TN,42100
+12,bill,hagerty,republican,28800,18800,10000,Adams & Reese,TNS2,TN,42100
+13,bill,hagerty,republican,25210,25210,0,Blackstone Group                        ,TNS2,TN,42100
+14,bill,hagerty,republican,24300,19300,5000,AFLAC Inc,TNS2,TN,42100
+15,bill,hagerty,republican,24100,14100,10000,Eastman Chemical,TNS2,TN,42100
+16,bill,hagerty,republican,22400,22400,0,Mountain Group Partners,TNS2,TN,42100
+17,bill,hagerty,republican,21800,21800,0,Thompson Machinery,TNS2,TN,42100
+18,bill,hagerty,republican,21800,21800,0,"Waller, Lansden et al",TNS2,TN,42100
+19,bill,hagerty,republican,21700,11700,10000,Ernst & Young,TNS2,TN,42100
+0,cory,booker,democrat,39537,39537,0,United Airlines Holdings,NJS2,NJ,41308
+1,cory,booker,democrat,33561,33561,0,Bain Capital,NJS2,NJ,41308
+2,cory,booker,democrat,22763,22763,0,Comcast Corp,NJS2,NJ,41308
+3,cory,booker,democrat,21753,21753,0,Lyft Inc,NJS2,NJ,41308
+4,cory,booker,democrat,20005,10005,10000,Service Employees International Union,NJS2,NJ,41308
+5,cory,booker,democrat,19860,19860,0,Kirkland & Ellis,NJS2,NJ,41308
+6,cory,booker,democrat,19600,19600,0,Centerview Partners,NJS2,NJ,41308
+7,cory,booker,democrat,19573,19573,0,Lowenstein Sandler Llp,NJS2,NJ,41308
+8,cory,booker,democrat,18300,18300,0,William Blair & Co,NJS2,NJ,41308
+9,cory,booker,democrat,17900,17900,0,Alphabet Inc,NJS2,NJ,41308
+10,cory,booker,democrat,17725,17725,0,Goldman Sachs,NJS2,NJ,41308
+11,cory,booker,democrat,17600,17600,0,NorPAC,NJS2,NJ,41308
+12,cory,booker,democrat,16800,16800,0,"Kleiner, Perkins et al",NJS2,NJ,41308
+13,cory,booker,democrat,16050,16050,0,Amc Networks,NJS2,NJ,41308
+14,cory,booker,democrat,15201,15201,0,"Paul, Weiss et al",NJS2,NJ,41308
+15,cory,booker,democrat,15000,0,15000,Motor City PAC,NJS2,NJ,41308
+16,cory,booker,democrat,15000,0,15000,New Millennium PAC,NJS2,NJ,41308
+17,cory,booker,democrat,14945,14945,0,Cole Schotz PC,NJS2,NJ,41308
+18,cory,booker,democrat,14750,14750,0,Susman Godfrey Llp,NJS2,NJ,41308
+19,cory,booker,democrat,13843,11343,2500,Planned Parenthood,NJS2,NJ,41308
+0,brian,schatz,democrat,109400,109400,0,Votesane PAC,HIS1,HI,41112
+1,brian,schatz,democrat,40925,40925,0,Democracy Engine,HIS1,HI,41112
+2,brian,schatz,democrat,24200,14200,10000,DISH Network,HIS1,HI,41112
+3,brian,schatz,democrat,13860,8860,5000,Dentons,HIS1,HI,41112
+4,brian,schatz,democrat,13750,13750,0,Hawaii Pacific Health,HIS1,HI,41112
+5,brian,schatz,democrat,13100,7100,6000,Rock Holdings,HIS1,HI,41112
+6,brian,schatz,democrat,12750,8250,4500,National Assn of Broadcasters,HIS1,HI,41112
+7,brian,schatz,democrat,12500,0,12500,Seafarers International Union,HIS1,HI,41112
+8,brian,schatz,democrat,12400,3400,9000,Microsoft Corp,HIS1,HI,41112
+9,brian,schatz,democrat,11600,11600,0,Technology Crossover Ventures,HIS1,HI,41112
+10,brian,schatz,democrat,10500,500,10000,International Assn of Fire Fighters,HIS1,HI,41112
+11,brian,schatz,democrat,10500,7000,3500,"Akin, Gump et al",HIS1,HI,41112
+12,brian,schatz,democrat,10500,500,10000,Comcast Corp,HIS1,HI,41112
+13,brian,schatz,democrat,10250,250,10000,Chugach Native Assn,HIS1,HI,41112
+14,brian,schatz,democrat,10075,75,10000,General Dynamics,HIS1,HI,41112
+15,brian,schatz,democrat,10000,0,10000,Deloitte LLP,HIS1,HI,41112
+16,brian,schatz,democrat,10000,0,10000,Giddy Up PAC,HIS1,HI,41112
+17,brian,schatz,democrat,10000,0,10000,Common Sense Colorado,HIS1,HI,41112
+18,brian,schatz,democrat,10000,0,10000,American Airlines Group,HIS1,HI,41112
+19,brian,schatz,democrat,10000,0,10000,American Hotel & Lodging Assn,HIS1,HI,41112
+0,alex,padilla,democrat,135400,135400,0,Hueston Hennigan Llp,CAS1,CA,42104
+1,alex,padilla,democrat,79700,69700,10000,Comcast Corp,CAS1,CA,42104
+2,alex,padilla,democrat,71950,71950,0,"Cotchett, Pitre & McCarthy",CAS1,CA,42104
+3,alex,padilla,democrat,71840,56840,15000,Edison International,CAS1,CA,42104
+4,alex,padilla,democrat,63475,63475,0,Gallo Winery,CAS1,CA,42104
+5,alex,padilla,democrat,41600,41600,0,"Dreyer, Babich et al                              ",CAS1,CA,42104
+6,alex,padilla,democrat,40600,40600,0,Sv Angel LLC,CAS1,CA,42104
+7,alex,padilla,democrat,38450,38450,0,"Robbins, Geller et al                   ",CAS1,CA,42104
+8,alex,padilla,democrat,37600,37600,0,"Kleiner, Perkins et al",CAS1,CA,42104
+9,alex,padilla,democrat,35200,35200,0,Kaiser Permanente,CAS1,CA,42104
+10,alex,padilla,democrat,34800,34800,0,Parkia Inc,CAS1,CA,42104
+11,alex,padilla,democrat,34100,29100,5000,Lyft Inc,CAS1,CA,42104
+12,alex,padilla,democrat,33633,18633,15000,Blue Cross/Blue Shield,CAS1,CA,42104
+13,alex,padilla,democrat,30905,30905,0,Democracy Engine,CAS1,CA,42104
+14,alex,padilla,democrat,30700,28200,2500,Airbnb Inc,CAS1,CA,42104
+15,alex,padilla,democrat,30400,20400,10000,General Atomics,CAS1,CA,42104
+16,alex,padilla,democrat,29834,24200,5634,Masimo Corp,CAS1,CA,42104
+17,alex,padilla,democrat,29000,29000,0,Advanced Nutrients,CAS1,CA,42104
+18,alex,padilla,democrat,28500,28500,0,Capitol Advocacy,CAS1,CA,42104
+19,alex,padilla,democrat,28200,28200,0,Live Nation Entertainment,CAS1,CA,42104
+0,angus,king,other,88085,88085,0,JStreetPAC,MES1,ME,41300
+1,angus,king,other,41300,31300,10000,Northrop Grumman,MES1,ME,41300
+2,angus,king,other,35650,35650,0,Bath Iron Works,MES1,ME,41300
+3,angus,king,other,32900,32900,0,Paloma Partners,MES1,ME,41300
+4,angus,king,other,31853,21854,9999,League of Conservation Voters,MES1,ME,41300
+5,angus,king,other,31500,21500,10000,General Dynamics,MES1,ME,41300
+6,angus,king,other,27286,17286,10000,Unum Group,MES1,ME,41300
+7,angus,king,other,27025,27025,0,"Bernstein, Shur et al",MES1,ME,41300
+8,angus,king,other,27000,27000,0,Cooney & Conway,MES1,ME,41300
+9,angus,king,other,22425,22425,0,Democracy Engine,MES1,ME,41300
+10,angus,king,other,20535,20535,0,Bowdoin College,MES1,ME,41300
+11,angus,king,other,18500,18500,0,Lee Auto Mall,MES1,ME,41300
+12,angus,king,other,18100,8100,10000,Google Inc,MES1,ME,41300
+13,angus,king,other,16950,16950,0,Drummond Woodsum,MES1,ME,41300
+14,angus,king,other,14716,0,14716,National Assn of Realtors,MES1,ME,41300
+15,angus,king,other,13700,3700,10000,Texas Instruments,MES1,ME,41300
+16,angus,king,other,13450,13450,0,State of Maine,MES1,ME,41300
+17,angus,king,other,13400,13400,0,Geiger,MES1,ME,41300
+18,angus,king,other,13100,13100,0,Jay Cashman Inc,MES1,ME,41300
+19,angus,king,other,12850,12850,0,Spectrum Medical Group,MES1,ME,41300
+0,maria,cantwell,democrat,113400,113400,0,Morgan & Morgan,WAS1,WA,39310
+1,maria,cantwell,democrat,110174,110174,0,Microsoft Corp,WAS1,WA,39310
+2,maria,cantwell,democrat,105973,106010,-37,League of Conservation Voters,WAS1,WA,39310
+3,maria,cantwell,democrat,62506,62506,0,Amazon.com,WAS1,WA,39310
+4,maria,cantwell,democrat,62304,62304,0,University of Washington,WAS1,WA,39310
+5,maria,cantwell,democrat,61192,61192,0,Boeing Co,WAS1,WA,39310
+6,maria,cantwell,democrat,45756,45756,0,Emily's List,WAS1,WA,39310
+7,maria,cantwell,democrat,41800,41800,0,Democracy Engine,WAS1,WA,39310
+8,maria,cantwell,democrat,40130,40130,0,Zillow Inc,WAS1,WA,39310
+9,maria,cantwell,democrat,27995,27995,0,K&L Gates,WAS1,WA,39310
+10,maria,cantwell,democrat,25400,25400,0,Fisher Investments,WAS1,WA,39310
+11,maria,cantwell,democrat,24569,24569,0,State of Washington,WAS1,WA,39310
+12,maria,cantwell,democrat,21950,21950,0,Valve Corp,WAS1,WA,39310
+13,maria,cantwell,democrat,21700,21700,0,"Orrick, Herrington & Sutcliffe",WAS1,WA,39310
+14,maria,cantwell,democrat,21618,21618,0,Fedex Corp,WAS1,WA,39310
+15,maria,cantwell,democrat,21200,21200,0,Novogradac & Co,WAS1,WA,39310
+16,maria,cantwell,democrat,20750,20750,0,"Sonosky, Chambers et al",WAS1,WA,39310
+17,maria,cantwell,democrat,20700,20700,0,Strategies 360,WAS1,WA,39310
+18,maria,cantwell,democrat,19435,19435,0,Intellectual Ventures LLC,WAS1,WA,39310
+19,maria,cantwell,democrat,19105,19105,0,Costco Wholesale,WAS1,WA,39310
+0,john,thune,republican,177500,177500,0,Votesane PAC,SDS1,SD,29754
+1,john,thune,republican,78500,78500,0,Sanford Health,SDS1,SD,29754
+2,john,thune,republican,61100,59000,2100,American Israel Public Affairs Cmte,SDS1,SD,29754
+3,john,thune,republican,46900,39400,7500,Apollo Global Management,SDS1,SD,29754
+4,john,thune,republican,45600,38100,7500,Delta Air Lines,SDS1,SD,29754
+5,john,thune,republican,44311,44311,0,NorPAC,SDS1,SD,29754
+6,john,thune,republican,40000,40000,0,Capital Group,SDS1,SD,29754
+7,john,thune,republican,36650,28150,8500,Fidelity Investments,SDS1,SD,29754
+8,john,thune,republican,36550,26550,10000,Comcast Corp,SDS1,SD,29754
+9,john,thune,republican,35000,30000,5000,Goldman Sachs,SDS1,SD,29754
+10,john,thune,republican,34500,29500,5000,NextEra Energy,SDS1,SD,29754
+11,john,thune,republican,33850,28850,5000,DISH Network,SDS1,SD,29754
+12,john,thune,republican,32900,26900,6000,"Brownstein, Hyatt et al",SDS1,SD,29754
+13,john,thune,republican,29800,20800,9000,HCA Inc,SDS1,SD,29754
+14,john,thune,republican,28900,23900,5000,Fox Corp,SDS1,SD,29754
+15,john,thune,republican,25300,20300,5000,Herzog,SDS1,SD,29754
+16,john,thune,republican,25000,18750,6250,"Akin, Gump et al",SDS1,SD,29754
+17,john,thune,republican,24550,24550,0,Democracy Engine,SDS1,SD,29754
+18,john,thune,republican,24500,14500,10000,Poet LLC,SDS1,SD,29754
+19,john,thune,republican,24250,14250,10000,Union Pacific Corp,SDS1,SD,29754
+0,maggie,hassan,democrat,438722,428722,10000,EMILY's List,NHS1,NH,41702
+1,maggie,hassan,democrat,406471,406471,0,Democracy Engine,NHS1,NH,41702
+2,maggie,hassan,democrat,135999,135999,0,J Street,NHS1,NH,41702
+3,maggie,hassan,democrat,104000,104000,0,Votesane PAC,NHS1,NH,41702
+4,maggie,hassan,democrat,93779,88779,5000,Alphabet Inc,NHS1,NH,41702
+5,maggie,hassan,democrat,91544,91544,0,Harvard University                      ,NHS1,NH,41702
+6,maggie,hassan,democrat,71585,71585,0,University of California                ,NHS1,NH,41702
+7,maggie,hassan,democrat,61650,51650,10000,American Israel Public Affairs Cmte,NHS1,NH,41702
+8,maggie,hassan,democrat,58201,49201,9000,Fidelity Investments,NHS1,NH,41702
+9,maggie,hassan,democrat,52650,42650,10000,Goldman Sachs,NHS1,NH,41702
+10,maggie,hassan,democrat,52291,52291,0,Motley Rice LLC,NHS1,NH,41702
+11,maggie,hassan,democrat,51125,44725,6400,Apollo Global Management,NHS1,NH,41702
+12,maggie,hassan,democrat,50750,50750,0,State of New Hampshire,NHS1,NH,41702
+13,maggie,hassan,democrat,48516,42516,6000,Centene Corp,NHS1,NH,41702
+14,maggie,hassan,democrat,43300,40800,2500,Pro-Israel America PAC,NHS1,NH,41702
+15,maggie,hassan,democrat,42548,42548,0,Massachusetts Institute of Technology,NHS1,NH,41702
+16,maggie,hassan,democrat,41622,33755,7867,League of Conservation Voters,NHS1,NH,41702
+17,maggie,hassan,democrat,40165,40165,0,Dartmouth College,NHS1,NH,41702
+18,maggie,hassan,democrat,38832,38832,0,University of New Hampshire             ,NHS1,NH,41702
+19,maggie,hassan,democrat,38535,33535,5000,Microsoft Corp,NHS1,NH,41702
