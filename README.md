@@ -3,7 +3,7 @@
 This repo contains the code we developed for building a knowledge graph that relates S117
 senators to contributors, sentors to bills they voted on, sentors to recent twitter posts
 they made during the month of November 2022, bills to named entities mentioned in their 
-voter descriptions, and tweets to named entities mentioned mentioned in the tweet text. 
+voter descriptions, and tweets to named entities mentioned in the tweet text. 
 The file 'build_graph.ipynb' integrates all the data we collected an essentially builds
 the Neo4j knowledge graph.  The other file, 'query_graph.ipynb' provide a multide of queries
 we came up for querying our sentor knowledge graph.  Please add more queries if you think
