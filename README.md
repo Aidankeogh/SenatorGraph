@@ -2,7 +2,7 @@
 
 This repo contains the code developed for building a knowledge graph that relates campaign contributors, vote records, and public twitter posts of the senators of the 117th session of congress. The purpose of this graph is to allow for investigating the relationships between how senators vote, who donates to different senators, and what they state publicly. Data was compiled for campaign contributions, voting records, and tweets of senators.  
 
-The file 'build_graph.ipynb' integrates all the data collected to build a Neo4j knowledge graph.  The file 'query_graph.ipynb' provides a 
+The file 'build_graph.ipynb' integrates all the data collected to build a Neo4j knowledge graph.  The file 'query_graph_demo'.ipynb' provides a 
 multide of example queries for the senator knowledge graph.
 
 The 'Senator Knowledge Graph.pdf' file provides a more indepth presentation of data selection and manipulation for this project.
@@ -25,9 +25,9 @@ The 'Senator Knowledge Graph.pdf' file provides a more indepth presentation of d
 
 ## RUNNING:
 
-Clone this repository and run the entire 'build_graph.ipynb' file to build the entire Neo4j senate graph. Once the graph is created queries can be run against it directly in Neo4j or the 'query_graph.ipynb' file provides examples on querying the graph directly through python.
+Clone this repository and run the entire 'build_graph.ipynb' file to build the entire Neo4j senate graph. Once the graph is created queries can be run against it directly in Neo4j or the 'query_graph_demo.ipynb' file provides examples on querying the graph directly through python.
 
-# Data Sources
+## Data Sources
 
 The raw data sources and notebooks for preparing the data to create nodes/edges in the graph are split into subfolders based on the source location.
 
@@ -73,6 +73,6 @@ knowledge graph.  That is, all the processed tweets that map to named entities, 
 roll calls mapping the voter descriptions to named entities, all the processed contributions, all 
 the processed senator voting results on roll calls, all the matches between named entities and contributors,
 and all the processed senator data including its mapping to twitter accounts.  All of these data were loaded in 
-using the build_graph.ipynb file to essentially build our knowledge graph for which the query_graph.ipynb file 
+using the build_graph.ipynb file to essentially build our knowledge graph for which the query_graph_demo.ipynb file 
 can query from.
 
