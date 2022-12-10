@@ -5,6 +5,8 @@ This repo contains the code developed for building a knowledge graph that relate
 The file 'build_graph.ipynb' integrates all the data collected to build a Neo4j knowledge graph.  The file 'query_graph.ipynb' provides a 
 multide of example queries for the senator knowledge graph.
 
+The 'Senator Knowledge Graph.pdf' file provides a more indepth presentation of data selection and manipulation for this project.
+
 ## Dependencies
 
 (1) Install Neo4j Desktop
