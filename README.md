@@ -23,7 +23,7 @@ The 'Senator Knowledge Graph.pdf' file provides a more indepth presentation of d
 
 (4) Open Neo4j Desktop and run Graph DBMS
 
-## RUNNING:
+## Running:
 
 Clone this repository and run the entire 'build_graph.ipynb' file to build the entire Neo4j senate graph. Once the graph is created queries can be run against it directly in Neo4j or the 'query_graph_demo.ipynb' file provides examples on querying the graph directly through python.
 
