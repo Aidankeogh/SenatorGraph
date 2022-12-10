@@ -37,7 +37,7 @@ This folder contains all the code and data used for building the tweet nodes in 
 and also for building the named entity nodes of our graph.  Using the twitter IDs for each S117 senator,
 we pulled 100 tweets for each senator from the month of November 2022 using the Twitter API.  We then
 used Spacy (transformers implementation) to run a NER analysis on each tweet.  From there, we could
-load tweets and name entities as individual nodes into our Neo4j graph and create and edge relating 
+load tweets and named entities as individual nodes into our Neo4j graph and create an edge relating 
 each tweet to the named entity with an edge called MENTIONS.
 
 ## (2) Rollcall Folder
