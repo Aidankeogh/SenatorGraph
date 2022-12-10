@@ -1,27 +1,33 @@
 # S117 Senator Knowledge Graph
 
-This repo contains the code we developed for building a knowledge graph that relates S117
-senators to contributors, sentors to bills they voted on, sentors to recent twitter posts
-they made during the month of November 2022, bills to named entities mentioned in their 
-voter descriptions, tweets to named entities mentioned in the tweet text, and named entities
-back to contributors. The file 'build_graph.ipynb' integrates all the data we collected an 
-essentially builds the Neo4j knowledge graph.  The other file, 'query_graph.ipynb' provides a 
-multide of queries we came up with for querying our sentor knowledge graph.  Please add more 
-queries if you think of any!
+This repo contains the code developed for building a knowledge graph that relates campaign contributors, vote records, and public twitter posts of the senators of the 117th session of congress. The purpose of this graph is to allow for investigating the relationships between how senators vote, who donates to different senators, and what they state publicly. Data was compiled for campaign contributions, voting records, and tweets of senators.  
 
-## DEPENDENCIES:
+The file 'build_graph.ipynb' integrates all the data collected to build a Neo4j knowledge graph.  The file 'query_graph.ipynb' provides a 
+multide of example queries for the senator knowledge graph.
+
+## Dependencies
 
 (1) Install Neo4j Desktop
 
-(2) MUST DO: Configure the neo4j_import_dir in line 2 of build_graph.ipynb to change it your local Neo4j dir, or else WILL NOT WORK
+(2) Configure the neo4j_import_dir and neo4j DMBS authentication values in cell 2 of build_graph.ipynb to your local Neo4j values
 
-(3) pip install neo4j
+(3) Use pip to install python dependencies:
+  * neo4j
+  * pandas
+  * numpy
+  * spacy
+  * json5
+  * compress-json
 
 (4) Open Neo4j Desktop and run Graph DBMS
 
 ## RUNNING:
 
-Clone this repository and run the entire 'build_graph.ipynb' file to build the entire Neo4j senate graph.
+Clone this repository and run the entire 'build_graph.ipynb' file to build the entire Neo4j senate graph. Once the graph is created queries can be run against it directly in Neo4j or the 'query_graph.ipynb' file provides examples on querying the graph directly through python.
+
+# Data Sources
+
+The raw data sources and notebooks for preparing the data to create nodes/edges in the graph are split into subfolders based on the source location.
 
 ## Twitter Folder
 
