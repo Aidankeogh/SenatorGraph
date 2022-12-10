@@ -9,17 +9,19 @@ essentially builds the Neo4j knowledge graph.  The other file, 'query_graph.ipyn
 multide of queries we came up with for querying our sentor knowledge graph.  Please add more 
 queries if you think of any!
 
-DEPENDENCIES:
+## DEPENDENCIES:
 
-Must install Neo4j Desktop and configure the neo4j_import_dir in line 2 of build_graph.ipynb
+(1) Install Neo4j Desktop
 
-pip install neo4j
+(2) MUST DO: Configure the neo4j_import_dir in line 2 of build_graph.ipynb to change it your local Neo4j dir, or else WILL NOT WORK
 
-Open Neo4j Desktop and run Graph DBMS
+(3) pip install neo4j
 
-RUNNING:
+(4) Open Neo4j Desktop and run Graph DBMS
 
-Clone this repository and run the 'build_graph.ipynb' file to build the entire Neo4j senate graph.
+## RUNNING:
+
+Clone this repository and run the entire 'build_graph.ipynb' file to build the entire Neo4j senate graph.
 
 ## Twitter Folder
 
